@@ -1,0 +1,834 @@
+[
+	{
+		"transaction_id": 876458041,
+		"store_id": 570,
+		"invoice_date": "2021-06-04 00:56:35",
+		"invoice_id": "20060503",
+		"amount": "0,100",
+		"product_id": 148
+	},
+	{
+		"transaction_id": 800216959,
+		"store_id": 153,
+		"invoice_date": "2020-04-20 01:01:47",
+		"invoice_id": "17570166",
+		"amount": "0,040",
+		"product_id": 431
+	},
+	{
+		"transaction_id": 473172709,
+		"store_id": 739,
+		"invoice_date": "2020-02-07 12:45:54",
+		"invoice_id": "32475445",
+		"amount": "0,039",
+		"product_id": 592
+	},
+	{
+		"transaction_id": 990649871,
+		"store_id": 100,
+		"invoice_date": "2021-04-04 02:26:25",
+		"invoice_id": "19370716",
+		"amount": "0,090",
+		"product_id": 579
+	},
+	{
+		"transaction_id": 863126437,
+		"store_id": 210,
+		"invoice_date": "2020-12-26 07:05:04",
+		"invoice_id": "32319780",
+		"amount": "0,022",
+		"product_id": 528
+	},
+	{
+		"transaction_id": 963772437,
+		"store_id": 581,
+		"invoice_date": "2021-05-25 23:57:32",
+		"invoice_id": "36395368",
+		"amount": "0,098",
+		"product_id": 498
+	},
+	{
+		"transaction_id": 582820972,
+		"store_id": 602,
+		"invoice_date": "2020-08-23 09:08:55",
+		"invoice_id": "17700810",
+		"amount": "0,097",
+		"product_id": 272
+	},
+	{
+		"transaction_id": 138972880,
+		"store_id": 455,
+		"invoice_date": "2020-05-14 10:26:32",
+		"invoice_id": "19626665",
+		"amount": "0,057",
+		"product_id": 260
+	},
+	{
+		"transaction_id": 997557274,
+		"store_id": 49,
+		"invoice_date": "2020-05-11 00:41:41",
+		"invoice_id": "27871026",
+		"amount": "0,084",
+		"product_id": 39
+	},
+	{
+		"transaction_id": 866066692,
+		"store_id": 297,
+		"invoice_date": "2020-03-13 14:55:46",
+		"invoice_id": "12738630",
+		"amount": "0,050",
+		"product_id": 289
+	},
+	{
+		"transaction_id": 693413410,
+		"store_id": 791,
+		"invoice_date": "2021-05-13 23:00:22",
+		"invoice_id": "9004232",
+		"amount": "0,033",
+		"product_id": 233
+	},
+	{
+		"transaction_id": 164704595,
+		"store_id": 598,
+		"invoice_date": "2021-05-18 01:29:55",
+		"invoice_id": "32874164",
+		"amount": "0,083",
+		"product_id": 385
+	},
+	{
+		"transaction_id": 737284223,
+		"store_id": 307,
+		"invoice_date": "2021-06-14 10:03:55",
+		"invoice_id": "22728832",
+		"amount": "0,063",
+		"product_id": 541
+	},
+	{
+		"transaction_id": 804500919,
+		"store_id": 566,
+		"invoice_date": "2020-07-06 20:17:15",
+		"invoice_id": "18187775",
+		"amount": "0,095",
+		"product_id": 442
+	},
+	{
+		"transaction_id": 415003037,
+		"store_id": 20,
+		"invoice_date": "2021-04-29 08:16:16",
+		"invoice_id": "37742976",
+		"amount": "0,034",
+		"product_id": 343
+	},
+	{
+		"transaction_id": 560426142,
+		"store_id": 609,
+		"invoice_date": "2021-05-22 13:16:54",
+		"invoice_id": "34925101",
+		"amount": "0,011",
+		"product_id": 595
+	},
+	{
+		"transaction_id": 193177155,
+		"store_id": 242,
+		"invoice_date": "2020-07-24 15:15:10",
+		"invoice_id": "33405980",
+		"amount": "0,057",
+		"product_id": 34
+	},
+	{
+		"transaction_id": 775859494,
+		"store_id": 25,
+		"invoice_date": "2020-02-08 20:07:56",
+		"invoice_id": "9089594",
+		"amount": "0,075",
+		"product_id": 493
+	},
+	{
+		"transaction_id": 396063613,
+		"store_id": 580,
+		"invoice_date": "2020-02-17 12:36:18",
+		"invoice_id": "18863196",
+		"amount": "0,011",
+		"product_id": 15
+	},
+	{
+		"transaction_id": 482301342,
+		"store_id": 629,
+		"invoice_date": "2021-05-04 06:58:13",
+		"invoice_id": "21196119",
+		"amount": "0,051",
+		"product_id": 241
+	},
+	{
+		"transaction_id": 643715472,
+		"store_id": 523,
+		"invoice_date": "2020-10-21 02:45:37",
+		"invoice_id": "44605590",
+		"amount": "0,018",
+		"product_id": 478
+	},
+	{
+		"transaction_id": 372216340,
+		"store_id": 528,
+		"invoice_date": "2020-12-16 09:29:44",
+		"invoice_id": "13654754",
+		"amount": "0,095",
+		"product_id": 192
+	},
+	{
+		"transaction_id": 73280603,
+		"store_id": 243,
+		"invoice_date": "2021-01-06 21:23:41",
+		"invoice_id": "17251762",
+		"amount": "0,005",
+		"product_id": 440
+	},
+	{
+		"transaction_id": 797135370,
+		"store_id": 160,
+		"invoice_date": "2020-01-17 23:13:08",
+		"invoice_id": "44701996",
+		"amount": "0,038",
+		"product_id": 136
+	},
+	{
+		"transaction_id": 159786444,
+		"store_id": 325,
+		"invoice_date": "2020-02-28 16:56:24",
+		"invoice_id": "37009737",
+		"amount": "0,088",
+		"product_id": 330
+	},
+	{
+		"transaction_id": 164000226,
+		"store_id": 719,
+		"invoice_date": "2020-11-18 13:20:14",
+		"invoice_id": "48743605",
+		"amount": "0,029",
+		"product_id": 415
+	},
+	{
+		"transaction_id": 805431084,
+		"store_id": 706,
+		"invoice_date": "2020-02-28 06:28:52",
+		"invoice_id": "7637200",
+		"amount": "0,082",
+		"product_id": 40
+	},
+	{
+		"transaction_id": 460641432,
+		"store_id": 701,
+		"invoice_date": "2020-01-10 13:32:17",
+		"invoice_id": "10500607",
+		"amount": "0,033",
+		"product_id": 322
+	},
+	{
+		"transaction_id": 567985829,
+		"store_id": 773,
+		"invoice_date": "2021-03-27 05:04:54",
+		"invoice_id": "5860797",
+		"amount": "0,058",
+		"product_id": 224
+	},
+	{
+		"transaction_id": 125101842,
+		"store_id": 754,
+		"invoice_date": "2020-02-04 02:32:43",
+		"invoice_id": "15712058",
+		"amount": "0,044",
+		"product_id": 141
+	},
+	{
+		"transaction_id": 271090265,
+		"store_id": 126,
+		"invoice_date": "2020-02-06 16:12:08",
+		"invoice_id": "23804955",
+		"amount": "0,059",
+		"product_id": 74
+	},
+	{
+		"transaction_id": 610055346,
+		"store_id": 445,
+		"invoice_date": "2021-01-10 07:10:50",
+		"invoice_id": "7402753",
+		"amount": "0,068",
+		"product_id": 422
+	},
+	{
+		"transaction_id": 238601046,
+		"store_id": 241,
+		"invoice_date": "2020-07-25 20:45:18",
+		"invoice_id": "18930377",
+		"amount": "0,070",
+		"product_id": 315
+	},
+	{
+		"transaction_id": 690819758,
+		"store_id": 517,
+		"invoice_date": "2020-02-08 09:20:33",
+		"invoice_id": "16261696",
+		"amount": "0,046",
+		"product_id": 343
+	},
+	{
+		"transaction_id": 141856933,
+		"store_id": 697,
+		"invoice_date": "2020-08-03 16:58:34",
+		"invoice_id": "16708999",
+		"amount": "0,036",
+		"product_id": 487
+	},
+	{
+		"transaction_id": 897787889,
+		"store_id": 335,
+		"invoice_date": "2020-01-09 03:39:14",
+		"invoice_id": "25450234",
+		"amount": "0,074",
+		"product_id": 104
+	},
+	{
+		"transaction_id": 900298673,
+		"store_id": 628,
+		"invoice_date": "2020-04-05 13:42:33",
+		"invoice_id": "41450506",
+		"amount": "0,076",
+		"product_id": 83
+	},
+	{
+		"transaction_id": 993074947,
+		"store_id": 331,
+		"invoice_date": "2021-06-15 06:30:54",
+		"invoice_id": "5949908",
+		"amount": "0,074",
+		"product_id": 490
+	},
+	{
+		"transaction_id": 206938210,
+		"store_id": 270,
+		"invoice_date": "2020-11-13 00:25:22",
+		"invoice_id": "12045422",
+		"amount": "0,026",
+		"product_id": 446
+	},
+	{
+		"transaction_id": 528949256,
+		"store_id": 28,
+		"invoice_date": "2020-01-08 01:03:26",
+		"invoice_id": "7441430",
+		"amount": "0,048",
+		"product_id": 286
+	},
+	{
+		"transaction_id": 765428764,
+		"store_id": 701,
+		"invoice_date": "2020-07-24 20:26:48",
+		"invoice_id": "24585188",
+		"amount": "0,036",
+		"product_id": 473
+	},
+	{
+		"transaction_id": 239608724,
+		"store_id": 355,
+		"invoice_date": "2021-05-08 21:01:36",
+		"invoice_id": "32261624",
+		"amount": "0,070",
+		"product_id": 480
+	},
+	{
+		"transaction_id": 675336958,
+		"store_id": 742,
+		"invoice_date": "2020-12-28 00:36:38",
+		"invoice_id": "16914286",
+		"amount": "0,038",
+		"product_id": 519
+	},
+	{
+		"transaction_id": 477466347,
+		"store_id": 484,
+		"invoice_date": "2021-03-29 06:21:59",
+		"invoice_id": "31390053",
+		"amount": "0,058",
+		"product_id": 26
+	},
+	{
+		"transaction_id": 76021761,
+		"store_id": 160,
+		"invoice_date": "2020-03-02 21:17:18",
+		"invoice_id": "36490222",
+		"amount": "0,056",
+		"product_id": 297
+	},
+	{
+		"transaction_id": 970613351,
+		"store_id": 149,
+		"invoice_date": "2020-01-22 01:19:14",
+		"invoice_id": "42652265",
+		"amount": "0,002",
+		"product_id": 176
+	},
+	{
+		"transaction_id": 469302818,
+		"store_id": 93,
+		"invoice_date": "2020-05-06 06:06:06",
+		"invoice_id": "30481534",
+		"amount": "0,050",
+		"product_id": 337
+	},
+	{
+		"transaction_id": 808088360,
+		"store_id": 217,
+		"invoice_date": "2020-09-30 22:52:39",
+		"invoice_id": "13419645",
+		"amount": "0,085",
+		"product_id": 208
+	},
+	{
+		"transaction_id": 564119635,
+		"store_id": 234,
+		"invoice_date": "2020-06-24 13:01:23",
+		"invoice_id": "18477571",
+		"amount": "0,083",
+		"product_id": 181
+	},
+	{
+		"transaction_id": 587302101,
+		"store_id": 487,
+		"invoice_date": "2020-04-26 20:00:27",
+		"invoice_id": "38001210",
+		"amount": "0,023",
+		"product_id": 547
+	},
+	{
+		"transaction_id": 705223525,
+		"store_id": 27,
+		"invoice_date": "2020-12-18 18:54:55",
+		"invoice_id": "19573347",
+		"amount": "0,039",
+		"product_id": 523
+	},
+	{
+		"transaction_id": 587032753,
+		"store_id": 483,
+		"invoice_date": "2020-08-05 08:44:14",
+		"invoice_id": "40688053",
+		"amount": "0,017",
+		"product_id": 421
+	},
+	{
+		"transaction_id": 533162411,
+		"store_id": 319,
+		"invoice_date": "2021-03-30 19:00:09",
+		"invoice_id": "20968196",
+		"amount": "0,033",
+		"product_id": 529
+	},
+	{
+		"transaction_id": 837636800,
+		"store_id": 136,
+		"invoice_date": "2020-06-03 23:40:26",
+		"invoice_id": "34951337",
+		"amount": "0,055",
+		"product_id": 487
+	},
+	{
+		"transaction_id": 652223971,
+		"store_id": 217,
+		"invoice_date": "2020-02-26 09:38:44",
+		"invoice_id": "11349647",
+		"amount": "0,015",
+		"product_id": 32
+	},
+	{
+		"transaction_id": 958646421,
+		"store_id": 791,
+		"invoice_date": "2021-01-02 14:03:31",
+		"invoice_id": "12245934",
+		"amount": "0,037",
+		"product_id": 452
+	},
+	{
+		"transaction_id": 374378270,
+		"store_id": 708,
+		"invoice_date": "2020-03-19 14:19:48",
+		"invoice_id": "27258647",
+		"amount": "0,081",
+		"product_id": 94
+	},
+	{
+		"transaction_id": 333899763,
+		"store_id": 121,
+		"invoice_date": "2020-02-18 20:31:25",
+		"invoice_id": "26977913",
+		"amount": "0,053",
+		"product_id": 327
+	},
+	{
+		"transaction_id": 617364146,
+		"store_id": 324,
+		"invoice_date": "2020-12-02 23:11:48",
+		"invoice_id": "32565684",
+		"amount": "0,027",
+		"product_id": 72
+	},
+	{
+		"transaction_id": 148878681,
+		"store_id": 776,
+		"invoice_date": "2020-03-25 00:07:37",
+		"invoice_id": "8495573",
+		"amount": "0,050",
+		"product_id": 263
+	},
+	{
+		"transaction_id": 980240058,
+		"store_id": 248,
+		"invoice_date": "2020-06-24 23:16:36",
+		"invoice_id": "34773018",
+		"amount": "0,047",
+		"product_id": 548
+	},
+	{
+		"transaction_id": 338351779,
+		"store_id": 18,
+		"invoice_date": "2020-06-27 12:25:00",
+		"invoice_id": "24695476",
+		"amount": "0,011",
+		"product_id": 220
+	},
+	{
+		"transaction_id": 672817028,
+		"store_id": 446,
+		"invoice_date": "2021-04-03 20:59:35",
+		"invoice_id": "31173902",
+		"amount": "0,069",
+		"product_id": 505
+	},
+	{
+		"transaction_id": 484638358,
+		"store_id": 631,
+		"invoice_date": "2020-02-17 02:35:50",
+		"invoice_id": "16885006",
+		"amount": "0,034",
+		"product_id": 108
+	},
+	{
+		"transaction_id": 400698046,
+		"store_id": 686,
+		"invoice_date": "2020-08-30 10:21:16",
+		"invoice_id": "22794953",
+		"amount": "0,024",
+		"product_id": 108
+	},
+	{
+		"transaction_id": 260800921,
+		"store_id": 613,
+		"invoice_date": "2020-06-25 21:31:59",
+		"invoice_id": "34882824",
+		"amount": "0,084",
+		"product_id": 258
+	},
+	{
+		"transaction_id": 687195762,
+		"store_id": 383,
+		"invoice_date": "2020-11-24 14:46:43",
+		"invoice_id": "27347691",
+		"amount": "0,078",
+		"product_id": 384
+	},
+	{
+		"transaction_id": 511341669,
+		"store_id": 154,
+		"invoice_date": "2020-09-04 15:07:12",
+		"invoice_id": "42659492",
+		"amount": "0,016",
+		"product_id": 212
+	},
+	{
+		"transaction_id": 636116869,
+		"store_id": 395,
+		"invoice_date": "2020-06-26 08:43:51",
+		"invoice_id": "31920386",
+		"amount": "0,049",
+		"product_id": 265
+	},
+	{
+		"transaction_id": 653984255,
+		"store_id": 292,
+		"invoice_date": "2020-05-28 13:48:53",
+		"invoice_id": "14190720",
+		"amount": "0,055",
+		"product_id": 111
+	},
+	{
+		"transaction_id": 198204192,
+		"store_id": 254,
+		"invoice_date": "2020-06-27 06:03:31",
+		"invoice_id": "14018170",
+		"amount": "0,054",
+		"product_id": 305
+	},
+	{
+		"transaction_id": 286201043,
+		"store_id": 745,
+		"invoice_date": "2020-09-26 17:18:05",
+		"invoice_id": "10540439",
+		"amount": "0,087",
+		"product_id": 153
+	},
+	{
+		"transaction_id": 511131735,
+		"store_id": 779,
+		"invoice_date": "2020-04-28 23:18:25",
+		"invoice_id": "10654444",
+		"amount": "0,071",
+		"product_id": 247
+	},
+	{
+		"transaction_id": 115412028,
+		"store_id": 559,
+		"invoice_date": "2021-02-26 01:41:29",
+		"invoice_id": "38573962",
+		"amount": "0,019",
+		"product_id": 586
+	},
+	{
+		"transaction_id": 336269079,
+		"store_id": 134,
+		"invoice_date": "2020-07-26 07:25:04",
+		"invoice_id": "20253432",
+		"amount": "0,005",
+		"product_id": 342
+	},
+	{
+		"transaction_id": 254015329,
+		"store_id": 287,
+		"invoice_date": "2020-10-10 06:21:20",
+		"invoice_id": "50088031",
+		"amount": "0,044",
+		"product_id": 207
+	},
+	{
+		"transaction_id": 710398943,
+		"store_id": 594,
+		"invoice_date": "2020-01-28 09:38:01",
+		"invoice_id": "26618515",
+		"amount": "0,002",
+		"product_id": 221
+	},
+	{
+		"transaction_id": 555788809,
+		"store_id": 293,
+		"invoice_date": "2021-05-19 07:24:10",
+		"invoice_id": "35358564",
+		"amount": "0,051",
+		"product_id": 562
+	},
+	{
+		"transaction_id": 772008646,
+		"store_id": 48,
+		"invoice_date": "2021-04-14 08:53:27",
+		"invoice_id": "7866263",
+		"amount": "0,068",
+		"product_id": 545
+	},
+	{
+		"transaction_id": 613558451,
+		"store_id": 368,
+		"invoice_date": "2021-01-28 13:14:22",
+		"invoice_id": "20480508",
+		"amount": "0,092",
+		"product_id": 409
+	},
+	{
+		"transaction_id": 697869553,
+		"store_id": 41,
+		"invoice_date": "2021-06-21 16:10:32",
+		"invoice_id": "45416279",
+		"amount": "0,027",
+		"product_id": 215
+	},
+	{
+		"transaction_id": 785024517,
+		"store_id": 749,
+		"invoice_date": "2020-02-24 00:06:58",
+		"invoice_id": "36049396",
+		"amount": "0,041",
+		"product_id": 462
+	},
+	{
+		"transaction_id": 658487506,
+		"store_id": 168,
+		"invoice_date": "2021-04-02 21:02:39",
+		"invoice_id": "31366780",
+		"amount": "0,032",
+		"product_id": 304
+	},
+	{
+		"transaction_id": 984860522,
+		"store_id": 570,
+		"invoice_date": "2020-08-15 03:43:01",
+		"invoice_id": "39842323",
+		"amount": "0,071",
+		"product_id": 201
+	},
+	{
+		"transaction_id": 601000589,
+		"store_id": 603,
+		"invoice_date": "2021-04-13 11:41:03",
+		"invoice_id": "23108726",
+		"amount": "0,085",
+		"product_id": 52
+	},
+	{
+		"transaction_id": 533483836,
+		"store_id": 249,
+		"invoice_date": "2020-03-23 07:18:24",
+		"invoice_id": "32559155",
+		"amount": "0,092",
+		"product_id": 205
+	},
+	{
+		"transaction_id": 546625385,
+		"store_id": 154,
+		"invoice_date": "2021-01-21 10:32:27",
+		"invoice_id": "33113417",
+		"amount": "0,070",
+		"product_id": 370
+	},
+	{
+		"transaction_id": 37146939,
+		"store_id": 129,
+		"invoice_date": "2020-02-19 01:47:20",
+		"invoice_id": "24470545",
+		"amount": "0,061",
+		"product_id": 224
+	},
+	{
+		"transaction_id": 404106375,
+		"store_id": 422,
+		"invoice_date": "2020-10-19 00:36:49",
+		"invoice_id": "40009931",
+		"amount": "0,044",
+		"product_id": 566
+	},
+	{
+		"transaction_id": 562114794,
+		"store_id": 650,
+		"invoice_date": "2020-04-30 10:44:58",
+		"invoice_id": "15298327",
+		"amount": "0,017",
+		"product_id": 430
+	},
+	{
+		"transaction_id": 967605694,
+		"store_id": 453,
+		"invoice_date": "2021-06-16 14:32:39",
+		"invoice_id": "42632753",
+		"amount": "0,062",
+		"product_id": 64
+	},
+	{
+		"transaction_id": 331553704,
+		"store_id": 674,
+		"invoice_date": "2020-06-28 15:08:38",
+		"invoice_id": "9846182",
+		"amount": "0,032",
+		"product_id": 580
+	},
+	{
+		"transaction_id": 896536808,
+		"store_id": 459,
+		"invoice_date": "2020-06-30 01:36:44",
+		"invoice_id": "41368631",
+		"amount": "0,044",
+		"product_id": 31
+	},
+	{
+		"transaction_id": 285424926,
+		"store_id": 508,
+		"invoice_date": "2020-06-30 16:09:33",
+		"invoice_id": "17164129",
+		"amount": "0,083",
+		"product_id": 239
+	},
+	{
+		"transaction_id": 720625358,
+		"store_id": 130,
+		"invoice_date": "2021-04-28 05:42:54",
+		"invoice_id": "34868660",
+		"amount": "0,075",
+		"product_id": 18
+	},
+	{
+		"transaction_id": 471918933,
+		"store_id": 97,
+		"invoice_date": "2020-02-22 13:14:05",
+		"invoice_id": "20253370",
+		"amount": "0,009",
+		"product_id": 201
+	},
+	{
+		"transaction_id": 499871812,
+		"store_id": 169,
+		"invoice_date": "2020-07-06 23:05:04",
+		"invoice_id": "44225973",
+		"amount": "0,037",
+		"product_id": 521
+	},
+	{
+		"transaction_id": 733440523,
+		"store_id": 524,
+		"invoice_date": "2021-05-08 19:29:28",
+		"invoice_id": "13220776",
+		"amount": "0,058",
+		"product_id": 587
+	},
+	{
+		"transaction_id": 883360400,
+		"store_id": 123,
+		"invoice_date": "2020-10-26 20:09:48",
+		"invoice_id": "33127456",
+		"amount": "0,041",
+		"product_id": 497
+	},
+	{
+		"transaction_id": 969235316,
+		"store_id": 381,
+		"invoice_date": "2021-02-25 07:33:09",
+		"invoice_id": "39899734",
+		"amount": "0,045",
+		"product_id": 460
+	},
+	{
+		"transaction_id": 499871822,
+		"store_id": 169,
+		"invoice_date": "2020-07-06 08:05:04",
+		"invoice_id": "44225973",
+		"amount": "2,037",
+		"product_id": 521
+	},
+	{
+		"transaction_id": 969235516,
+		"store_id": 381,
+		"invoice_date": "2021-02-25 11:33:09",
+		"invoice_id": "39899734",
+		"amount": "5,045",
+		"product_id": 460
+	},
+	{
+		"transaction_id": 546625485,
+		"store_id": 154,
+		"invoice_date": "2021-01-21 16:32:27",
+		"invoice_id": "33113417",
+		"amount": "10,070",
+		"product_id": 370
+	},
+	{
+		"transaction_id": 658487906,
+		"store_id": 168,
+		"invoice_date": "2021-04-02 10:02:39",
+		"invoice_id": "31366780",
+		"amount": "12,032",
+		"product_id": 304
+	}
+]

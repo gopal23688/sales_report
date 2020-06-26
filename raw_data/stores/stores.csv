@@ -1,0 +1,647 @@
+store_id,store_name,store_size,zipcode,coaststore,trafficstore,PLAATS,GEMEENTE,PROVINCIE,regio,STN
+120,Stadskanaal,B ,9501,0,0,Stadskanaal,Stadskanaal,Groningen,north,286
+123,Kerkrade,B ,6461,0,0,Kerkrade,Kerkrade,Limburg,south,380
+143,Zandvoort,B ,2042,1,0,Zandvoort,Zandvoort,Noord-Holland,north,210
+782,Enschede,C ,7511,0,0,Enschede,Enschede,Overijssel,north,290
+11,A'dam-Kinkerstraat,C ,1053,0,0,Amsterdam,Amsterdam,Noord-Holland,north,240
+3,R'dam-Centrum,D ,3011,0,0,Rotterdam,Rotterdam,Zuid-Holland,middle,344
+119,Zevenaar,B ,6901,0,0,Zevenaar,Zevenaar,Gelderland,south,275
+508,Zwolle,D ,8011,0,0,Zwolle,Zwolle,Overijssel,north,278
+293,Sliedrecht,B ,3361,0,0,Sliedrecht,Sliedrecht,Zuid-Holland,middle,356
+647,Heerlen,C ,6411,0,0,Heerlen,Heerlen,Limburg,south,380
+2,A'dam-Nieuwendijk,D ,1012,0,0,Amsterdam,Amsterdam,Noord-Holland,north,240
+4,Nijmegen-Centrum,D ,6511,0,0,Nijmegen,Nijmegen,Gelderland,south,375
+262,Breda-Noord,A ,4823,0,0,Breda,Breda,Noord-Brabant,south,350
+18,Dordrecht-Centrum,C ,3311,0,0,Dordrecht,Dordrecht,Zuid-Holland,middle,356
+87,Evenementen,B ,1033,0,0,Amsterdam,Amsterdam,Noord-Holland,north,240
+53,Apeldoorn,C ,7311,0,0,Apeldoorn,Apeldoorn,Gelderland,middle,275
+21,Arnhem-Centrum,D ,6811,0,0,Arnhem,Arnhem,Gelderland,south,275
+32,Amstelveen,D ,1181,0,0,Amstelveen,Amstelveen,Noord-Holland,north,240
+477,Maarssenbroek,B ,3605,0,0,Maarssen,Maarssen,Utrecht,middle,260
+13,Utrecht-Centrum,D ,3511,0,0,Utrecht,Utrecht,Utrecht,middle,260
+27,Leeuwarden,C ,8911,0,0,Leeuwarden,Leeuwarden,Friesland,north,270
+14,Hilversum,C ,1211,0,0,Hilversum,Hilversum,Noord-Holland,north,260
+48,Arnhem-Presikhaaf,B ,6826,0,0,Arnhem,Arnhem,Gelderland,south,275
+135,Delfzijl,B ,9934,0,0,Delfzijl,Delfzijl,Groningen,north,280
+41,Rijswijk,B ,2284,0,0,Rijswijk (ZH),Rijswijk,Zuid-Holland,middle,210
+106,Spijkenisse,B ,3201,0,0,Spijkenisse,Spijkenisse,Zuid-Holland,middle,344
+20,A'dam-Linnaeusstraat,B ,1093,0,0,Amsterdam,Amsterdam,Noord-Holland,north,240
+22,Schiedam,B ,3111,0,0,Schiedam,Schiedam,Zuid-Holland,middle,344
+368,Hengelo,C ,7551,0,0,Hengelo (OV),Hengelo (OV),Overijssel,north,290
+249,gesloten,B ,1082,0,0,Amsterdam,Amsterdam,Noord-Holland,north,240
+130,Hoorn,C ,1621,0,0,Hoorn (NH),Hoorn,Noord-Holland,north,249
+121,Cuyk,B ,5431,0,0,Cuijk,Cuijk,Noord-Brabant,south,375
+75,Woerden,B ,3441,0,0,Woerden,Woerden,Utrecht,middle,348
+183,Bergum,B ,9251,0,0,Burgum,Tytsjerksteradiel,Friesland,north,270
+8,Haarlem-Centrum,C ,2011,0,0,Haarlem,Haarlem,Noord-Holland,north,240
+23,Leiden,C ,2312,0,0,Leiden,Leiden,Zuid-Holland,middle,240
+42,Almelo,B ,7607,0,0,Almelo,Almelo,Overijssel,north,290
+185,Vaals,B ,6291,0,0,Vaals,Vaals,Limburg,south,380
+317,R'dam-Vuurplaat,A ,3071,0,0,Rotterdam,Rotterdam,Zuid-Holland,middle,344
+31,Zeist,B ,3701,0,0,Zeist,Zeist,Utrecht,middle,260
+108,Brunssum,B ,6441,0,0,Brunssum,Brunssum,Limburg,south,380
+5,Groningen-Centrum,D ,9711,0,0,Groningen,Groningen,Groningen,north,280
+111,Goes,C ,4461,0,0,Goes,Goes,Zeeland,south,310
+105,Sneek,B ,8601,0,0,Sneek,Sneek,Friesland,north,270
+9,Eindhoven-Centrum,D ,5611,0,0,Eindhoven,Eindhoven,Noord-Brabant,south,370
+64,Bergen op Zoom,C ,4611,0,0,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,south,340
+51,IJmuiden,B ,1971,1,0,IJmuiden,Velsen,Noord-Holland,north,235
+15,Zaandam,C ,1506,0,0,Zaandam,Zaanstad,Noord-Holland,north,240
+80,Heerlen-Centrum,C ,6411,0,0,Heerlen,Heerlen,Limburg,south,380
+331,Elst,A ,6661,0,0,Elst (GLD),Overbetuwe,Gelderland,south,356
+39,Emmen,C ,7811,0,0,Emmen,Emmen,Drenthe,north,286
+74,Hulst,B ,4561,0,0,Hulst,Hulst,Zeeland,south,319
+52,R'dam-IJsselmonde,B ,3078,0,0,Rotterdam,Rotterdam,Zuid-Holland,middle,344
+113,Waalwijk,B ,5141,0,0,Waalwijk,Waalwijk,Noord-Brabant,south,350
+6,Tilburg,C ,5038,0,0,Tilburg,Tilburg,Noord-Brabant,south,350
+95,Eerbeek,AA,6961,0,0,Eerbeek,Brummen,Gelderland,middle,275
+107,Meppel,B ,7941,0,0,Meppel,Meppel,Drenthe,north,279
+12,A'dam-Ferdinand Bolstraat,C ,1072,0,0,Amsterdam,Amsterdam,Noord-Holland,north,240
+76,R'dam-Oosterhof,C ,3067,0,0,Rotterdam,Rotterdam,Zuid-Holland,middle,344
+34,Venlo,B ,5911,0,0,Venlo,Venlo,Limburg,south,391
+68,Zoetermeer,C ,2711,0,0,Zoetermeer,Zoetermeer,Zuid-Holland,middle,344
+38,Den Helder,B ,1781,0,0,Den Helder,Den Helder,Noord-Holland,north,235
+7,Den Bosch,D ,5211,0,0,Den Bosch,s Hertogenbosch,Noord-Brabant,south,375
+37,A'dam- Osdorp,C ,1068,0,0,Amsterdam,Amsterdam,Noord-Holland,north,240
+17,Breda-Centrum,D ,4811,0,0,Breda,Breda,Noord-Brabant,south,350
+250,Bladel,A ,5531,0,0,Bladel,Bladel,Noord-Brabant,south,370
+453,Lelystad,B ,8232,0,0,Lelystad,Lelystad,Flevoland,north,269
+44,Vlaardingen,B ,3131,0,0,Vlaardingen,Vlaardingen,Zuid-Holland,middle,344
+156,Winschoten,C ,9671,0,0,Winschoten,Winschoten,Groningen,north,286
+125,Hillegom,B ,2181,0,0,Hillegom,Hillegom,Zuid-Holland,middle,240
+1,Amsterdam Kalverpassage,D ,1012,0,0,Amsterdam,Amsterdam,Noord-Holland,north,240
+10,Leidschendam-Leidsenhage,C ,2262,0,0,Leidschendam,Leidschendam Voorburg,Zuid-Holland,middle,210
+155,Nijkerk GESLOTEN,B ,3861,0,0,Nijkerk,Nijkerk,Gelderland,middle,260
+171,Eibergen,A ,7151,0,0,Eibergen,Berkelland,Gelderland,middle,283
+198,Franeker,B ,8801,0,0,Franeker,Franekeradeel,Friesland,north,270
+129,Etten-Leur,B ,4873,0,0,Etten Leur,Etten Leur,Noord-Brabant,south,350
+230,Krimpen a/d IJssel,B ,2922,0,0,Krimpen aan den IJssel,Krimpen aan den IJssel,Zuid-Holland,middle,344
+175,Valkenburg,B ,6301,0,0,Valkenburg (LB),Valkenburg aan de Geul,Limburg,south,380
+202,Dronten,B ,8254,0,0,Dronten,Dronten,Flevoland,north,269
+169,Hoogezand,B ,9603,0,0,Hoogezand,Hoogezand Sappemeer,Groningen,north,280
+184,Dedemsvaart,A ,7701,0,0,Dedemsvaart,Hardenberg,Overijssel,north,279
+188,Wijk bij Duurstede,B ,3961,0,0,Wijk bij Duurstede,Wijk bij Duurstede,Utrecht,middle,260
+36,Ede,B ,6711,0,0,Ede (GLD),Ede,Gelderland,middle,275
+55,A'dam-Noord,C ,1025,0,0,Amsterdam,Amsterdam,Noord-Holland,north,240
+305,Diemen,A ,1111,0,0,Diemen,Diemen,Noord-Holland,north,240
+63,Sittard,B ,6131,0,0,Sittard,Sittard Geleen,Limburg,south,380
+251,Vriezenveen,A ,7671,0,0,Vriezenveen,Twenterand,Overijssel,north,290
+247,Tegelen,A ,5931,0,0,Tegelen,Venlo,Limburg,south,391
+40,Den Haag-Leyweg,B ,2545,0,0,Den Haag,s Gravenhage,Zuid-Holland,middle,210
+229,Leek,A ,9351,0,0,Leek,Leek,Groningen,north,280
+360,Breda Hoge Vught,AA,4826,0,0,Breda,Breda,Noord-Brabant,south,350
+223,Oud-Beijerland,B ,3262,0,0,Oud Beijerland,Oud Beijerland,Zuid-Holland,middle,344
+49,Voorburg,B ,2273,0,0,Voorburg,Leidschendam Voorburg,Zuid-Holland,middle,210
+122,Papendrecht,B ,3353,0,0,Papendrecht,Papendrecht,Zuid-Holland,middle,356
+70,Purmerend,B ,1441,0,0,Purmerend,Purmerend,Noord-Holland,north,240
+136,Kampen,B ,8261,0,0,Kampen,Kampen,Overijssel,north,273
+296,Brielle,A ,3231,0,0,Brielle,Brielle,Zuid-Holland,middle,344
+128,Dokkum,B ,9101,0,0,Dokkum,Dongeradeel,Friesland,north,270
+243,Dordrecht-Sterrenburg,A ,3318,0,0,Dordrecht,Dordrecht,Zuid-Holland,middle,356
+134,Houten,B ,3995,0,0,Houten,Houten,Utrecht,middle,260
+54,Utrecht-Overvecht,C ,3562,0,0,Utrecht,Utrecht,Utrecht,middle,260
+82,Nieuwegein,C ,3431,0,0,Nieuwegein,Nieuwegein,Utrecht,middle,260
+630,Someren,A ,5711,0,0,Someren,Someren,Noord-Brabant,south,370
+141,Naaldwijk,B ,2671,0,0,Naaldwijk,Westland,Zuid-Holland,middle,344
+165,Mijdrecht,B ,3641,0,0,Mijdrecht,De Ronde Venen,Utrecht,middle,240
+654,Delden,AA,7491,0,0,Delden,Hof Van Twente,Overijssel,north,290
+28,Bussum,B ,1404,0,0,Bussum,Bussum,Noord-Holland,north,260
+71,Vlissingen,B ,4381,1,0,Vlissingen,Vlissingen,Zeeland,south,310
+158,Hardenberg,B ,7772,0,0,Hardenberg,Hardenberg,Overijssel,north,279
+255,Geldrop,A ,5664,0,0,Geldrop,Geldrop Mierlo,Noord-Brabant,south,370
+355,Hengelo-Hasselo,AA,7558,0,0,Hengelo (OV),Hengelo (OV),Overijssel,north,290
+127,Wageningen,C ,6701,0,0,Wageningen,Wageningen,Gelderland,middle,275
+180,Veldhoven,B ,5501,0,0,Veldhoven,Veldhoven,Noord-Brabant,south,370
+57,Haarlem-Schalkwijk,C ,2037,0,0,Haarlem,Haarlem,Noord-Holland,north,240
+308,Woudenberg,A ,3931,0,0,Woudenberg,Woudenberg,Utrecht,middle,260
+114,Geleen,B ,6161,0,0,Geleen,Sittard Geleen,Limburg,south,380
+35,Den Haag-Centrum,D ,2511,0,0,Den Haag,s Gravenhage,Zuid-Holland,middle,210
+79,A'dam-Zuidoost,C ,1102,0,0,Amsterdam Zuidoost,Amsterdam,Noord-Holland,north,240
+56,Groningen-Paddepoel,B ,9742,0,0,Groningen,Groningen,Groningen,north,280
+62,Oosterhout,B ,4901,0,0,Oosterhout (NB),Oosterhout,Noord-Brabant,south,350
+140,Culemborg,B ,4101,0,0,Culemborg,Culemborg,Gelderland,middle,356
+372,Eersel,AA,5521,0,0,Eersel,Eersel,Noord-Brabant,south,370
+138,Nijverdal,B ,7442,0,0,Nijverdal,Hellendoorn,Overijssel,north,278
+115,Baarn,B ,3741,0,0,Baarn,Baarn,Utrecht,middle,260
+151,Harlingen,B ,8861,0,0,Harlingen,Harlingen,Friesland,north,270
+258,Duiven,A ,6921,0,0,Duiven,Duiven,Gelderland,south,275
+65,Alphen a/d Rijn,C ,2406,0,0,Alphen aan den Rijn,Alphen aan den Rijn,Zuid-Holland,middle,240
+219,Alkmaar-Noord,B ,1825,0,0,Alkmaar,Alkmaar,Noord-Holland,north,240
+152,Emmeloord,B ,8302,0,0,Emmeloord,Noordoostpolder,Flevoland,north,273
+33,Roermond,C ,6041,0,0,Roermond,Roermond,Limburg,south,377
+162,Hoofddorp,C ,2132,0,0,Hoofddorp,Haarlemmermeer,Noord-Holland,north,240
+58,Eindhoven-Woensel,C ,5625,0,0,Eindhoven,Eindhoven,Noord-Brabant,south,370
+103,Wassenaar,B ,2242,0,0,Wassenaar,Wassenaar,Zuid-Holland,middle,210
+69,Beverwijk,B ,1941,0,0,Beverwijk,Beverwijk,Noord-Holland,north,235
+16,Maastricht-Centrum,D ,6211,0,0,Maastricht,Maastricht,Limburg,south,380
+60,Assen,B ,9401,0,0,Assen,Assen,Drenthe,north,280
+274,Berkel & Rodenrijs,A ,2651,0,0,Berkel en Rodenrijs,Berkel en Rodenrijs,Zuid-Holland,middle,344
+637,Born,AA,6121,0,0,Born,Sittard Geleen,Limburg,south,380
+191,Boxtel,B ,5281,0,0,Boxtel,Boxtel,Noord-Brabant,south,370
+88,Outlet D'Haag Megastores,B ,2521,0,0,Den Haag,s Gravenhage,Zuid-Holland,middle,210
+179,Oosterwolde,B ,8431,0,0,Oosterwolde (FRL),Ooststellingwerf,Friesland,north,280
+145,Venray,C ,5801,0,0,Venray,Venray,Limburg,south,391
+30,Alkmaar,C ,1811,0,0,Alkmaar,Alkmaar,Noord-Holland,north,240
+47,Amersfoort-Centrum,C ,3811,0,0,Amersfoort,Amersfoort,Utrecht,middle,260
+326,Lichtenvoorde,A ,7131,0,0,Lichtenvoorde,Groenlo,Gelderland,middle,283
+203,Sassenheim,B ,2171,0,0,Sassenheim,Teylingen,Zuid-Holland,middle,240
+327,Heythuysen,A ,6093,0,0,Heijthuijsen,Heythuysen,Limburg,south,377
+139,Gorinchem,C ,4201,0,0,Gorinchem,Gorinchem,Zuid-Holland,middle,356
+314,Den Haag - Fahrenheitstraat,A ,2561,0,0,Den Haag,s Gravenhage,Zuid-Holland,middle,210
+272,Dieren,A ,6951,0,0,Dieren,Rheden,Gelderland,south,275
+289,Lemmer,A ,8531,0,0,Lemmer,Lemsterland,Friesland,north,270
+193,Rijssen,B ,7462,0,0,Rijssen,Rijssen Holten,Overijssel,north,290
+194,Heerhugowaard,B ,1703,0,0,Heerhugowaard,Heerhugowaard,Noord-Holland,north,240
+266,Utrecht-Kanaleneiland,A ,3527,0,0,Utrecht,Utrecht,Utrecht,middle,260
+284,Hendrik Ido Ambacht,A ,3341,0,0,Hendrik Ido Ambacht,Hendrik Ido Ambacht,Zuid-Holland,middle,344
+66,Delft,C ,2611,0,0,Delft,Delft,Zuid-Holland,middle,344
+392,Julianadorp,AA,1787,1,0,Den Helder,Den Helder,Noord-Holland,north,235
+218,Deurne,B ,5751,0,0,Deurne,Deurne,Noord-Brabant,south,375
+294,Barendrecht - Carnisse veste,A ,2993,0,0,Barendrecht,Barendrecht,Zuid-Holland,middle,344
+300,Raamsdonksveer,A ,4941,0,0,Raamsdonksveer,Geertruidenberg,Noord-Brabant,south,350
+48,Doetinchem,B ,7001,0,0,Doetinchem,Doetinchem,Gelderland,middle,283
+287,Aalsmeer,A ,1431,0,0,Aalsmeer,Aalsmeer,Noord-Holland,north,240
+368,Den Bosch Helftheuvel,AA,5224,0,0,Den Bosch,s Hertogenbosch,Noord-Brabant,south,375
+225,Echt,B ,6101,0,0,Echt,Echt Susteren,Limburg,south,377
+142,Zaltbommel,B ,5301,0,0,Zaltbommel,Zaltbommel,Gelderland,south,356
+286,IJsselstein,A ,3401,0,0,IJsselstein (UT),IJsselstein,Utrecht,middle,348
+83,Almere-Stad,D ,1315,0,0,Almere,Almere,Flevoland,north,269
+164,Rhenen,B ,3911,0,0,Rhenen,Rhenen,Utrecht,middle,260
+342,Oosterbeek,A ,6862,0,0,Oosterbeek,Renkum,Gelderland,south,275
+146,Nieuw Vennep,B ,2151,0,0,Nieuw Vennep,Haarlemmermeer,Noord-Holland,north,240
+497,B.E. Kalverstraat Amsterdam,AA,1012,0,0,Amsterdam,Amsterdam,Noord-Holland,north,240
+265,Capelle a/d IJssel,A ,2903,0,0,Capelle aan den IJssel,Capelle aan den IJssel,Zuid-Holland,middle,344
+72,Arnhem-Kronenburg,B ,6831,0,0,Arnhem,Arnhem,Gelderland,south,356
+144,Veghel,B ,5461,0,0,Veghel,Veghel,Noord-Brabant,south,375
+695,Eindhoven Tongelresestraat,AA,5613,0,0,Eindhoven,Eindhoven,Noord-Brabant,south,370
+329,Sluis,A ,4524,0,0,Sluis,Sluis,Zeeland,south,319
+254,Ulft,A ,7071,0,0,Ulft,Oude IJsselstreek,Gelderland,middle,283
+671,Dinxperlo,A ,7091,0,0,Dinxperlo,Aalten,Gelderland,middle,283
+110,Zutphen,B ,7201,0,0,Zutphen,Zutphen,Gelderland,middle,283
+84,Nijkerk,B ,3861,0,0,Nijkerk,Nijkerk,Gelderland,middle,260
+167,Harderwijk,B ,3841,0,0,Harderwijk,Harderwijk,Gelderland,middle,260
+298,Heerlen,A ,6411,0,0,Heerlen,Heerlen,Limburg,south,380
+642,Hardinxveld Giessendam,A ,3371,0,0,Hardinxveld Giessendam,Hardinxveld Giessendam,Zuid-Holland,middle,356
+259,Volendam,A ,1131,0,0,Volendam,Edam Volendam,Noord-Holland,north,249
+249,Driebergen,A ,3971,0,0,Driebergen Rijsenburg,Utrechtse Heuvelrug,Utrecht,middle,260
+102,Oss,C ,5341,0,0,Oss,Oss,Noord-Brabant,south,375
+383,Barendrecht-Centrum,AA,2991,0,0,Barendrecht,Barendrecht,Zuid-Holland,middle,344
+201,Bilthoven,B ,3722,0,0,Bilthoven,De Bilt,Utrecht,middle,260
+46,Helmond,B ,5701,0,0,Helmond,Helmond,Noord-Brabant,south,370
+163,Joure,B ,8501,0,0,Joure,Skarsterlan,Friesland,north,270
+124,Steenbergen,A ,4651,0,0,Steenbergen (NB),Steenbergen,Noord-Brabant,south,340
+173,Valkenswaard,B ,5554,0,0,Valkenswaard,Valkenswaard,Noord-Brabant,south,370
+220,Voorschoten,B ,2251,0,0,Voorschoten,Voorschoten,Zuid-Holland,middle,210
+523,HT Stationslocatie Den Bosch,AA,5211,0,0,Den Bosch,s Hertogenbosch,Noord-Brabant,south,375
+178,Geldermalsen,B ,4191,0,0,Geldermalsen,Geldermalsen,Gelderland,middle,356
+214,Zeewolde,A ,3891,0,0,Zeewolde,Zeewolde,Flevoland,north,269
+168,Barneveld,B ,3771,0,0,Barneveld,Barneveld,Gelderland,middle,275
+306,Goor,A ,7471,0,0,Goor,Hof Van Twente,Overijssel,north,290
+545,Amsterdam Haarlemmerplein,AA,1013,0,0,Amsterdam,Amsterdam,Noord-Holland,north,240
+260,Goirle,A ,5051,0,0,Goirle,Goirle,Noord-Brabant,south,350
+154,Enkhuizen,B ,1601,0,0,Enkhuizen,Enkhuizen,Noord-Holland,north,249
+67,Nijmegen-Dukenburg,B ,6538,0,0,Nijmegen,Nijmegen,Gelderland,south,375
+187,Surhuisterveen,B ,9231,0,0,Surhuisterveen,Achtkarspelen,Friesland,north,270
+137,Weert,C ,6001,0,0,Weert,Weert,Limburg,south,377
+132,Ridderkerk,C ,2981,0,0,Ridderkerk,Ridderkerk,Zuid-Holland,middle,344
+112,Tiel,B ,4001,0,0,Tiel,Tiel,Gelderland,middle,356
+43,Gesloten,B ,6461,0,0,Kerkrade,Kerkrade,Limburg,south,380
+73,Terneuzen,B ,4531,0,0,Terneuzen,Terneuzen,Zeeland,south,319
+388,A'dam-IJburg,AA,1087,0,0,Amsterdam,Amsterdam,Noord-Holland,north,240
+949,Dalfsen,A ,7721,0,0,Dalfsen,Dalfsen,Overijssel,north,278
+222,Wijchen,B ,6602,0,0,Wijchen,Wijchen,Gelderland,south,375
+226,Zwijndrecht,C ,3332,0,0,Zwijndrecht,Zwijndrecht,Zuid-Holland,middle,344
+234,Almere-Buiten,B ,1334,0,0,Almere,Almere,Flevoland,north,269
+174,Coevorden,B ,7741,0,0,Coevorden,Coevorden,Drenthe,north,279
+228,Huissen,A ,6851,0,0,Huissen,Lingewaard,Gelderland,south,356
+153,Raalte,B ,8102,0,0,Raalte,Raalte,Overijssel,north,278
+379,Schiphol-Horeca,AA,1118,0,1,Luchthaven Schiphol,Haarlemmermeer,Noord-Holland,north,240
+347,Wateringen - Dorp,A ,2291,0,0,Wateringen,Westland,Zuid-Holland,middle,210
+364,Scheveningen Promenade,AA,2586,1,0,Den Haag,s Gravenhage,Zuid-Holland,middle,210
+209,Middelharnis,B ,3241,0,0,Middelharnis,Middelharnis,Zuid-Holland,middle,310
+337,Delft de Hoven Passage,A ,2624,0,0,Delft,Delft,Zuid-Holland,middle,344
+338,Beek en Donk,AA,5741,0,0,Beek en Donk,Laarbeek,Noord-Brabant,south,375
+297,Wierden,A ,7642,0,0,Wierden,Wierden,Overijssel,north,290
+232,Amersfoort Vathorst,A ,3825,0,0,Amersfoort,Amersfoort,Utrecht,middle,260
+213,Panningen,B ,5981,0,0,Panningen,Helden,Limburg,south,391
+295,Den Haag - Loosduinen,A ,2552,0,0,Den Haag,s Gravenhage,Zuid-Holland,middle,210
+324,Uithuizen,A ,9981,0,0,Uithuizen,Eemsmond,Groningen,north,280
+116,Drachten,C ,9203,0,0,Drachten,Smallingerland,Friesland,north,270
+632,Waalre,A ,5582,0,0,Waalre,Waalre,Noord-Brabant,south,370
+291,Wezep,A ,8091,0,0,Wezep,Oldebroek,Gelderland,middle,278
+301,Bergeijk,A ,5571,0,0,Bergeijk,Bergeijk,Noord-Brabant,south,370
+304,Nuenen,A ,5671,0,0,Nuenen,Nuenen,Noord-Brabant,south,370
+61,Gouda,C ,2801,0,0,Gouda,Gouda,Zuid-Holland,middle,348
+385,Utrecht-Amsterdamse Straatweg,AA,3551,0,0,Utrecht,Utrecht,Utrecht,middle,260
+849,Almelo-Ootmarsumsestraat,AA,7603,0,0,Almelo,Almelo,Overijssel,north,290
+316,Vianen,A ,4132,0,0,Vianen (UT),Vianen,Utrecht,middle,356
+150,Bolsward,B ,8701,0,0,Bolsward,Bolsward,Friesland,north,270
+309,Didam,A ,6942,0,0,Didam,Montferland,Gelderland,middle,275
+133,Uden,B ,5401,0,0,Uden,Uden,Noord-Brabant,south,375
+242,Apeldoorn  Eglantier,A ,7329,0,0,Apeldoorn,Apeldoorn,Gelderland,middle,275
+381,Helmond-Brandevoort,AA,5708,0,0,Helmond,Helmond,Noord-Brabant,south,370
+170,Wolvega,B ,8471,0,0,Wolvega,Weststellingwerf,Friesland,north,280
+835,Tilburg-Westermarkt,A ,5042,0,0,Tilburg,Tilburg,Noord-Brabant,south,350
+302,Utrecht-Vleuterweide,A ,3452,0,0,Vleuten,Utrecht,Utrecht,middle,260
+181,Den Burg,B ,1791,0,0,Den Burg,Texel,Noord-Holland,north,251
+157,Lisse,B ,2161,0,0,Lisse,Lisse,Zuid-Holland,middle,240
+801,CS Praxis Groningen,B ,9723,0,0,Groningen,Groningen,Groningen,north,280
+340,Rijen,A ,5121,0,0,Rijen,Gilze en Rijen,Noord-Brabant,south,350
+275,Krommenie,A ,1561,0,0,Krommenie,Zaanstad,Noord-Holland,north,240
+269,Lochem,A ,7241,0,0,Lochem,Lochem,Gelderland,middle,283
+217,Maassluis,B ,3144,0,0,Maassluis,Maassluis,Zuid-Holland,middle,344
+652,De Lier,AA,2678,0,0,De Lier,Westland,Zuid-Holland,middle,344
+673,Rijnsburg,A ,2231,0,0,Rijnsburg,Katwijk,Zuid-Holland,middle,210
+916,Anna paulowna,AA,1761,0,0,Anna Paulowna,Anna Paulowna,Noord-Holland,north,249
+622,Ouddorp,A ,3253,1,0,Ouddorp (ZH),Goedereede,Zuid-Holland,middle,310
+713,Varsseveld,AA,7051,0,0,Varsseveld,Oude IJsselstreek,Gelderland,middle,283
+131,Veendam,B ,9641,0,0,Veendam,Veendam,Groningen,north,286
+922,Groenlo,AA,7141,0,0,Groenlo,Groenlo,Gelderland,middle,283
+207,Ermelo,B ,3851,0,0,Ermelo,Ermelo,Gelderland,middle,260
+50,Deventer,C ,7411,0,0,Deventer,Deventer,Overijssel,north,278
+303,Zevenbergen,A ,4761,0,0,Zevenbergen,Moerdijk,Noord-Brabant,south,340
+902,Broek op Langedijk,A ,1721,0,0,Broek op Langedijk,Langedijk,Noord-Holland,north,240
+182,Heiloo,B ,1851,0,0,Heiloo,Heiloo,Noord-Holland,north,240
+256,Dongen,A ,5104,0,0,Dongen,Dongen,Noord-Brabant,south,350
+529,HT Mobiele High Traffic 1,AA,8011,0,0,Zwolle,Zwolle,Overijssel,north,278
+384,Deventer-Colmschate,AA,7429,0,0,Colmschate,Deventer,Overijssel,north,278
+246,Utrecht-Hoog Catharijne,A ,3511,0,0,Utrecht,Utrecht,Utrecht,middle,260
+190,Beilen,B ,9411,0,0,Beilen,Midden Drenthe,Drenthe,north,279
+354,Hilversum Gijsbrecht,AA,1214,0,0,Hilversum,Hilversum,Noord-Holland,north,260
+651,Mill,A ,5451,0,0,Mill,Mill en Sint Hubert,Noord-Brabant,south,375
+279,R'dam Boulevard-Zuid,A ,3074,0,0,Rotterdam,Rotterdam,Zuid-Holland,middle,344
+160,Putten,B ,3881,0,0,Putten,Putten,Gelderland,middle,260
+77,Middelburg,B ,4331,0,0,Middelburg,Middelburg,Zeeland,south,310
+318,Zwolle-Stadshagen,A ,8043,0,0,Zwolle,Zwolle,Overijssel,north,278
+257,Heemskerk,A ,1961,1,0,Heemskerk,Heemskerk,Noord-Holland,north,235
+166,Nunspeet,B ,8071,0,0,Nunspeet,Nunspeet,Gelderland,middle,278
+149,Zierikzee,B ,4301,0,0,Zierikzee,Schouwen Duiveland,Zeeland,south,310
+104,Heerenveen,C ,8442,0,0,Heerenveen,Heerenveen,Friesland,north,280
+101,Roosendaal,C ,4701,0,0,Roosendaal,Roosendaal,Noord-Brabant,south,340
+2156,Station Amsterdam Zuid WTC,A ,1082,0,0,Amsterdam,Amsterdam,Noord-Holland,north,240
+970,Winsum,AA,1102,0,0,Amsterdam Zuidoost,Amsterdam,Noord-Holland,north,240
+244,Gemert,A ,5421,0,0,Gemert,Gemert Bakel,Noord-Brabant,south,375
+832,Eindhoven VERVALLEN,AA,1102,0,0,Amsterdam Zuidoost,Amsterdam,Noord-Holland,north,240
+278,Haren,A ,9751,0,0,Haren (GN),Haren,Groningen,north,280
+176,Ommen,B ,7731,0,0,Ommen,Ommen,Overijssel,north,278
+315,Eindhoven - Woenselse Markt,A ,5612,0,0,Eindhoven,Eindhoven,Noord-Brabant,south,370
+245,Klazienaveen,A ,7891,0,0,Klazienaveen,Emmen,Drenthe,north,286
+394,R'dam-Nesselande,AA,3059,0,0,Rotterdam,Rotterdam,Zuid-Holland,middle,344
+520,HT Stationslokatie A'dam Centr,AA,1012,0,0,Amsterdam,Amsterdam,Noord-Holland,north,240
+627,Zetten,A ,6671,0,0,Zetten,Overbetuwe,Gelderland,south,356
+261,R'dam-Hoogvliet,A ,3191,0,0,Hoogvliet Rotterdam,Rotterdam,Zuid-Holland,middle,344
+373,Doesburg,AA,6981,0,0,Doesburg,Doesburg,Gelderland,south,275
+397,R'dam Binnenhof,AA,3069,0,0,Rotterdam,Rotterdam,Zuid-Holland,middle,344
+546,Rotterdam Lusthofstraat,A ,3061,0,0,Rotterdam,Rotterdam,Zuid-Holland,middle,344
+285,Nootdorp,A ,2632,0,0,Nootdorp,Pijnacker Nootdorp,Zuid-Holland,middle,344
+241,Horst,A ,5961,0,0,Horst,Horst aan de Maas,Limburg,south,391
+319,Rhoon,A ,3161,0,0,Rhoon,Albrandswaard,Zuid-Holland,middle,344
+336,Alkmaar Wendelaarstraat,A ,1814,0,0,Alkmaar,Alkmaar,Noord-Holland,north,240
+117,Winterswijk,B ,7101,0,0,Winterswijk,Winterswijk,Gelderland,middle,283
+824,Amsterdam NDSM-straat,A ,1033,0,0,Amsterdam,Amsterdam,Noord-Holland,north,240
+907,Kollum,A ,9291,0,0,Kollum,Kollumerland en Nieuwkruisland,Friesland,north,270
+328,Uithoorn,A ,1421,0,0,Uithoorn,Uithoorn,Noord-Holland,north,240
+643,St.-Michielsgestel,A ,5271,0,0,Sint Michielsgestel,Sint Michielsgestel,Noord-Brabant,south,375
+109,Veenendaal,C ,3901,0,0,Veenendaal,Veenendaal,Utrecht,middle,260
+522,Stationslokatie Utrecht CS,AA,3511,0,0,Utrecht,Utrecht,Utrecht,middle,260
+2058,OUTLET Tilburg,B ,5041,0,0,Tilburg,Tilburg,Noord-Brabant,south,350
+810,Horeca Utrecht-Steenweg,AA,3511,0,0,Utrecht,Utrecht,Utrecht,middle,260
+172,Appingedam,A ,9901,0,0,Appingedam,Appingedam,Groningen,north,280
+363,Leeuwarden Zuiderburen,AA,8939,0,0,Leeuwarden,Leeuwarden,Friesland,north,270
+807,CS Praxis Hoorn,B ,1625,0,0,Hoorn (NH),Hoorn,Noord-Holland,north,249
+264,Heemstede,A ,2101,0,0,Heemstede,Heemstede,Noord-Holland,north,240
+386,Den Haag-Wateringseveld,AA,2548,0,0,Den Haag,s Gravenhage,Zuid-Holland,middle,210
+195,Oldenzaal,B ,7571,0,0,Oldenzaal,Oldenzaal,Overijssel,north,290
+2177,Zoetermeer Rokkeveen,AA,2719,0,0,Zoetermeer,Zoetermeer,Zuid-Holland,middle,344
+339,Leidschenveen,A ,2492,0,0,Den Haag,s Gravenhage,Zuid-Holland,middle,240
+208,Hellevoetsluis,C ,3224,0,0,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,middle,344
+205,Schijndel,B ,5481,0,0,Schijndel,Schijndel,Noord-Brabant,south,375
+809,CS Praxis Winschoten,B ,9672,0,0,Winschoten,Winschoten,Groningen,north,286
+690,Bloemendaal-VERVALLEN,A ,1033,0,0,Amsterdam,Amsterdam,Noord-Holland,north,240
+276,Beuningen,A ,6641,0,0,Beuningen (GLD),Beuningen,Gelderland,south,375
+310,Hoensbroek,A ,6431,0,0,Hoensbroek,Heerlen,Limburg,south,380
+253,A'dam-Gelderlandplein,B ,1082,0,0,Amsterdam,Amsterdam,Noord-Holland,north,240
+823,Leeuwarden-Bilgaard,AA,8918,0,0,Leeuwarden,Leeuwarden,Friesland,north,270
+692,Helmond VERVALLEN,AA,1033,0,0,Amsterdam,Amsterdam,Noord-Holland,north,240
+820,R'dam Overschie,AA,3042,0,0,Rotterdam,Rotterdam,Zuid-Holland,middle,344
+2062,Outlet Den Helder,B ,1781,0,0,Den Helder,Den Helder,Noord-Holland,north,235
+147,Steenwijk,B ,8331,0,0,Steenwijk,Steenwijkerland,Overijssel,north,279
+2069,Outlet Deventer,B ,7411,0,0,Deventer,Deventer,Overijssel,north,278
+325,Maxis Muiden,A ,1398,0,0,Muiden,Muiden,Noord-Holland,north,240
+59,R'dam-Zuidplein,D ,3083,0,0,Rotterdam,Rotterdam,Zuid-Holland,middle,344
+544,vervallen EV,A ,1033,0,0,Amsterdam,Amsterdam,Noord-Holland,north,240
+2148,OUTLET STORE,B ,1033,0,0,Amsterdam,Amsterdam,Noord-Holland,north,240
+635,Hoek van Holland,A ,3151,0,0,Hoek Van Holland,Rotterdam,Zuid-Holland,middle,344
+366,Vleuten,AA,3451,0,0,Vleuten,Utrecht,Utrecht,middle,260
+945,Urk,A ,8322,0,0,Urk,Urk,Flevoland,north,273
+624,Numansdorp,A ,3281,0,0,Numansdorp,Cromstrijen,Zuid-Holland,middle,344
+307,Vlijmen,A ,5251,0,0,Vlijmen,Heusden,Noord-Brabant,south,350
+204,Noordwijk,B ,2202,1,0,Noordwijk (ZH),Noordwijk,Zuid-Holland,middle,210
+548,Vlaardingen De Loper,AA,3136,0,0,Vlaardingen,Vlaardingen,Zuid-Holland,middle,344
+843,Emmen Angelslo,AA,7824,0,0,Emmen,Emmen,Drenthe,north,286
+321,Leiden-Luifelbaan,A ,2321,0,0,Leiden,Leiden,Zuid-Holland,middle,240
+206,Leerdam,B ,4141,0,0,Leerdam,Leerdam,Zuid-Holland,middle,356
+196,Asten,B ,5721,0,0,Asten,Asten,Noord-Brabant,south,370
+648,Heerlerheide,A ,6413,0,0,Heerlen,Heerlen,Limburg,south,380
+332,Bunschoten,A ,3751,0,0,Bunschoten Spakenburg,Bunschoten,Utrecht,middle,260
+177,'s Gravenzande,B ,2691,1,0,s Gravenzande,Westland,Zuid-Holland,middle,344
+192,Budel,B ,6021,0,0,Budel,Cranendonck,Noord-Brabant,south,377
+159,Alblasserdam,B ,2951,0,0,Alblasserdam,Alblasserdam,Zuid-Holland,middle,348
+288,Nieuwerkerk a/d IJssel,A ,2914,0,0,Nieuwerkerk aan den IJssel,Nieuwerkerk aan den IJssel,Zuid-Holland,middle,344
+271,Tilburg-Heyhoef,A ,5043,0,0,Tilburg,Tilburg,Noord-Brabant,south,350
+924,Heesch,A ,5384,0,0,Heesch,Bernheze,Noord-Brabant,south,375
+283,Leiderdorp,A ,2353,0,0,Leiderdorp,Leiderdorp,Zuid-Holland,middle,240
+197,Gorredijk,A ,8401,0,0,Gorredijk,Opsterland,Friesland,north,280
+396,Assendelft,AA,1567,0,0,Assendelft,Zaanstad,Noord-Holland,north,240
+273,A'dam-Slotermeer,A ,1063,0,0,Amsterdam,Amsterdam,Noord-Holland,north,240
+905,Stein,A ,6171,0,0,Stein (LB),Stein,Limburg,south,380
+633,Oostvoorne,A ,3233,0,0,Oostvoorne,Westvoorne,Zuid-Holland,middle,344
+802,CS Praxis Almere,B ,1316,0,0,Almere,Almere,Flevoland,north,269
+267,Castricum,A ,1902,1,0,Castricum,Castricum,Noord-Holland,north,235
+376,Rijswijk-Herenstraat,AA,2282,0,0,Rijswijk (ZH),Rijswijk,Zuid-Holland,middle,210
+543,Tilburg Wagnerplein,AA,5011,0,0,Tilburg,Tilburg,Noord-Brabant,south,350
+844,Velserbroek,AA,1991,0,0,Velserbroek,Velsen,Noord-Holland,north,240
+525,HT Stationslokatie Zwolle,AA,8011,0,0,Zwolle,Zwolle,Overijssel,north,278
+293,Groesbeek,A ,6561,0,0,Groesbeek,Groesbeek,Gelderland,south,375
+670,Veenendaal-Ellekoot,A ,3905,0,0,Veenendaal,Veenendaal,Utrecht,middle,260
+2174,Kerkrade,A ,6461,0,0,Kerkrade,Kerkrade,Limburg,south,380
+126,Boxmeer,B ,5831,0,0,Boxmeer,Boxmeer,Noord-Brabant,south,375
+920,Landgraaf,A ,6371,0,0,Landgraaf,Landgraaf,Limburg,south,380
+395,Oude Pekela,AA,9665,0,0,Oude Pekela,Pekela,Groningen,north,286
+948,Bennekom,A ,6721,0,0,Bennekom,Ede,Gelderland,middle,275
+233,Amersfoort-Noord,B ,3823,0,0,Amersfoort,Amersfoort,Utrecht,middle,260
+640,Balk,AA,8561,0,0,Balk,Gaasterlan Sleat,Friesland,north,270
+186,Elburg,B ,8081,0,0,Elburg,Elburg,Gelderland,middle,278
+534,HT Stationslokatie A'dam Bijlm,AA,1033,0,0,Amsterdam,Amsterdam,Noord-Holland,north,240
+944,Vroomshoop,A ,7681,0,0,Vroomshoop,Twenterand,Overijssel,north,290
+270,Vught,A ,5261,0,0,Vught,Vught,Noord-Brabant,south,350
+636,Glanerbrug,A ,7534,0,0,Enschede,Enschede,Overijssel,north,290
+240,Best,A ,5683,0,0,Best,Best,Noord-Brabant,south,370
+913,Maarssen-dorp,AA,3601,0,0,Maarssen,Maarssen,Utrecht,middle,260
+330,Losser,A ,7581,0,0,Losser,Losser,Overijssel,north,290
+216,Oisterwijk,B ,5061,0,0,Oisterwijk,Oisterwijk,Noord-Brabant,south,370
+938,Beneden-Leeuwen,A ,6658,0,0,Beneden Leeuwen,West Maas en Waal,Gelderland,middle,375
+808,CS Praxis Den Bosch,B ,5232,0,0,Den Bosch,s Hertogenbosch,Noord-Brabant,south,375
+358,Hattem,AA,8051,0,0,Hattem,Hattem,Gelderland,north,278
+540,Enschede Op de Brouwerij,AA,7523,0,0,Enschede,Enschede,Overijssel,north,290
+263,Maastricht-Brusselse Poort,A ,6216,0,0,Maastricht,Maastricht,Limburg,south,380
+932,Eindhoven-Meerhoven,A ,5658,0,0,Eindhoven,Eindhoven,Noord-Brabant,south,370
+2178,Utrecht Leidsche Rijn,A ,3541,0,0,Utrecht,Utrecht,Utrecht,middle,260
+361,Wormer,AA,1531,0,0,Wormer,Wormerland,Noord-Holland,north,240
+389,Den Haag -  Zwijgerlaan,AA,2582,0,0,Den Haag,s Gravenhage,Zuid-Holland,middle,210
+118,Hoogeveen,C ,7902,0,0,Hoogeveen,Hoogeveen,Drenthe,north,279
+626,Hengelo (Gld),A ,7255,0,0,Hengelo (GLD),Bronckhorst,Gelderland,middle,283
+923,Boskoop,AA,2771,0,0,Boskoop,Boskoop,Zuid-Holland,middle,344
+521,HT Stationslokatie Leiden CS,AA,2312,0,0,Leiden,Leiden,Zuid-Holland,middle,240
+731,Voorthuizen,A ,3781,0,0,Voorthuizen,Barneveld,Gelderland,middle,275
+353,R'dam-Oudedijk,AA,3061,0,0,Rotterdam,Rotterdam,Zuid-Holland,middle,344
+639,Montfoort,A ,3417,0,0,Montfoort,Montfoort,Utrecht,middle,348
+675,Hoogkarspel,A ,1616,0,0,Hoogkarspel,Drechterland,Noord-Holland,north,249
+901,Vaassen,A ,8171,0,0,Vaassen,Epe,Gelderland,middle,278
+357,Oostzaan,AA,1511,0,0,Oostzaan,Oostzaan,Noord-Holland,north,240
+210,Katwijk,B ,2225,1,0,Katwijk (ZH),Katwijk,Zuid-Holland,middle,210
+200,Heerde,A ,8181,0,0,Heerde,Heerde,Gelderland,middle,278
+653,Nieuw-Amsterdam,A ,7833,0,0,Nieuw Amsterdam,Emmen,Drenthe,north,286
+390,Breda Prinsenbeek,AA,4841,0,0,Prinsenbeek,Breda,Noord-Brabant,south,350
+189,Roden,B ,9301,0,0,Roden,Noordenveld,Drenthe,north,280
+224,Almere,C ,1315,0,0,Almere,Almere,Flevoland,north,269
+211,Aalten,B ,7121,0,0,Aalten,Aalten,Gelderland,middle,283
+290,Druten,A ,6651,0,0,Druten,Druten,Gelderland,south,375
+312,Den Haag-Dierenselaan,A ,2573,0,0,Den Haag,s Gravenhage,Zuid-Holland,middle,210
+942,Stiens,A ,9051,0,0,Stiens,Leeuwarderadeel,Friesland,north,270
+378,Schiphol-Winkel,AA,1118,0,1,Luchthaven Schiphol,Haarlemmermeer,Noord-Holland,north,240
+199,Schagen,B ,1741,0,0,Schagen,Schagen,Noord-Holland,north,240
+398,R'dam-Mathenesserplein,AA,3022,0,0,Rotterdam,Rotterdam,Zuid-Holland,middle,344
+282,Beek,A ,6191,0,0,Beek (LB),Beek,Limburg,south,380
+955,Roelofarendsveen,A ,2371,0,0,Roelofarendsveen,Alkemade,Zuid-Holland,middle,240
+834,Ede Stadspoort,AA,6716,0,0,Ede (GLD),Ede,Gelderland,middle,275
+292,Bodegraven,A ,2411,0,0,Bodegraven,Bodegraven,Zuid-Holland,middle,348
+658,Nieuw-Bergen,A ,5854,0,0,Bergen (LB),Bergen (LB),Limburg,south,391
+674,Vervallen/ oud Breukelen,AA,3621,0,0,Breukelen (UT),Breukelen,Utrecht,middle,260
+828,Bergen,A ,1861,0,0,Bergen (NH),Bergen (NH),Noord-Holland,north,235
+322,Oegstgeest,A ,2341,0,0,Oegstgeest,Oegstgeest,Zuid-Holland,middle,240
+734,Wervershoof,A ,1693,0,0,Wervershoof,Wervershoof,Noord-Holland,north,249
+161,Epe,B ,8162,0,0,Epe,Epe,Gelderland,middle,278
+621,Berkel-Enschot,A ,5056,0,0,Berkel Enschot,Tilburg,Noord-Brabant,south,350
+950,Berlicum,A ,5258,0,0,Berlicum (NB),Sint Michielsgestel,Noord-Brabant,south,375
+248,Kaatsheuvel,A ,5171,0,0,Kaatsheuvel,Loon Op Zand,Noord-Brabant,south,350
+655,Wijk en Aalburg,AA,4261,0,0,Wijk en Aalburg,Aalburg,Noord-Brabant,south,356
+320,Almere-Haven,A ,1353,0,0,Almere,Almere,Flevoland,north,269
+2054,Outlet Apeldoorn,B ,7311,0,0,Apeldoorn,Apeldoorn,Gelderland,middle,275
+961,Heeze,AA,5591,0,0,Heeze,Heeze Leende,Noord-Brabant,south,370
+341,Zwolle-zuid,A ,8014,0,0,Zwolle,Zwolle,Overijssel,north,278
+829,Hilvarenbeek,AA,5081,0,0,Hilvarenbeek,Hilvarenbeek,Noord-Brabant,south,370
+277,Soest,A ,3761,0,0,Soest,Soest,Utrecht,middle,260
+968,Denekamp,AA,7591,0,0,Denekamp,Dinkelland,Overijssel,north,290
+333,Zoetermeer-Oosterheem,A ,2721,0,0,Zoetermeer,Zoetermeer,Zuid-Holland,middle,344
+334,St. Oedenrode,A ,5492,0,0,Sint Oedenrode,Sint Oedenrode,Noord-Brabant,south,375
+2070,Te sluiten Outlets,B ,1033,0,0,Amsterdam,Amsterdam,Noord-Holland,north,240
+930,Medemblik,A ,1671,0,0,Medemblik,Medemblik,Noord-Holland,north,249
+657,Terschelling,A ,8881,0,0,Terschelling West,Terschelling,Friesland,north,251
+550,Nieuwe Niedorp,A ,1033,0,0,Amsterdam,Amsterdam,Noord-Holland,north,240
+527,HT Stationslokatie Arnhem CS,AA,6811,0,0,Arnhem,Arnhem,Gelderland,south,275
+951,Werkendam,A ,4251,0,0,Werkendam,Werkendam,Noord-Brabant,south,356
+387,Amsterdam Sloterkade,A ,1058,0,0,Amsterdam,Amsterdam,Noord-Holland,north,240
+539,HT Utrecht -Uithof,AA,3584,0,0,Utrecht,Utrecht,Utrecht,middle,260
+231,Huizen,C ,1271,0,0,Huizen,Huizen,Noord-Holland,north,260
+831,Reusel,AA,5541,0,0,Reusel,Reusel de Mierden,Noord-Brabant,south,370
+2059,Outlet Vlaardingen,B ,3131,0,0,Vlaardingen,Vlaardingen,Zuid-Holland,middle,344
+628,Kerkdriel,A ,5331,0,0,Kerkdriel,Maasdriel,Gelderland,south,356
+841,Assen - Kloosterveste,A ,9408,0,0,Assen,Assen,Drenthe,north,280
+380,Borger,AA,9531,0,0,Borger,Borger Odoorn,Drenthe,north,286
+940,Wieringerwerf,AA,1771,0,0,Wieringerwerf,Wieringermeer,Noord-Holland,north,249
+812,EV AA-Module,AA,1102,0,0,Amsterdam Zuidoost,Amsterdam,Noord-Holland,north,240
+935,Borculo,A ,7271,0,0,Borculo,Berkelland,Gelderland,middle,283
+524,HT Stationslokatie Alkmaar,AA,1815,0,0,Alkmaar,Alkmaar,Noord-Holland,north,240
+352,Oostburg,AA,4501,0,0,Oostburg,Sluis,Zeeland,south,319
+281,Scheveningen,A ,2584,1,0,Den Haag,s Gravenhage,Zuid-Holland,middle,210
+2140,OUTLET MAXIS MUIDEN,B ,1398,0,0,Muiden,Muiden,Noord-Holland,north,240
+541,Enschede--VERVALLEN,AA,1033,0,0,Amsterdam,Amsterdam,Noord-Holland,north,240
+239,RELOCATIE OLDENZAAL (TIJDELIJK,B ,7571,0,0,Oldenzaal,Oldenzaal,Overijssel,north,290
+280,Velp,A ,6881,0,0,Velp (GLD),Rheden,Gelderland,south,275
+215,R'dam-Hillegersberg,B ,3054,0,0,Rotterdam,Rotterdam,Zuid-Holland,middle,344
+371,Ruurlo,AA,7261,0,0,Ruurlo,Berkelland,Gelderland,middle,283
+350,Den Haag Savornin Lohmanplein,A ,2566,0,0,Den Haag,s Gravenhage,Zuid-Holland,middle,210
+2153,CS Den Bosch,A ,5211,0,1,Den Bosch,s Hertogenbosch,Noord-Brabant,south,375
+348,A'dam - jodenbreestraat,A ,1011,0,0,Amsterdam,Amsterdam,Noord-Holland,north,240
+549,Breda Princenhage,AA,4813,0,0,Breda,Breda,Noord-Brabant,south,350
+344,Pijnacker,A ,2641,0,0,Pijnacker,Pijnacker Nootdorp,Zuid-Holland,middle,344
+2052,Outlet Ede,B ,6711,0,0,Ede (GLD),Ede,Gelderland,middle,275
+845,Eindhoven-Sint Trudoplein,AA,5616,0,0,Eindhoven,Eindhoven,Noord-Brabant,south,370
+335,Woerden,A ,3441,0,0,Woerden,Woerden,Utrecht,middle,348
+714,Kortenhoef,AA,1241,0,0,Kortenhoef,Wijdemeren,Noord-Holland,north,260
+693,Amsterdam - Brazilië,AA,1033,0,0,Amsterdam,Amsterdam,Noord-Holland,north,240
+2127,Bloemendaal,AA,2061,1,0,Bloemendaal,Bloemendaal,Noord-Holland,north,210
+356,Den Haag megastores,AA,2521,0,0,Den Haag,s Gravenhage,Zuid-Holland,middle,210
+822,Groningen Verlengde Hereweg,AA,9721,0,0,Groningen,Groningen,Groningen,north,280
+221,Leusden,B ,3831,0,0,Leusden,Leusden,Utrecht,middle,260
+732,Eemnes,AA,3755,0,0,Eemnes,Eemnes,Utrecht,middle,260
+2042,Outlet Dordrecht,AA,3311,0,0,Dordrecht,Dordrecht,Zuid-Holland,middle,356
+299,Gennep,A ,6591,0,0,Gennep,Gennep,Limburg,south,375
+691,Zwolle AA-landen,AA,8032,0,0,Zwolle,Zwolle,Overijssel,north,278
+359,Loosdrecht,AA,1231,0,0,Loosdrecht,Wijdemeren,Noord-Holland,north,260
+2032,Hoevelaken,AA,3871,0,0,Hoevelaken,Nijkerk,Gelderland,middle,260
+345,Blerick,A ,5921,0,0,Venlo,Venlo,Limburg,south,391
+2152,CS Utrecht,A ,3511,0,1,Utrecht,Utrecht,Utrecht,middle,260
+349,nog te bepalen,A ,1171,0,0,Badhoevedorp,Haarlemmermeer,Noord-Holland,north,240
+2151,CS Leiden,A ,2312,0,1,Leiden,Leiden,Zuid-Holland,middle,240
+343,Deventer-Keizerslanden,A ,1102,0,0,Amsterdam Zuidoost,Amsterdam,Noord-Holland,north,240
+2142,Outlet Beverwijk,B ,1941,0,0,Beverwijk,Beverwijk,Noord-Holland,north,235
+2055,Outlet Deventer,B ,7411,0,0,Deventer,Deventer,Overijssel,north,278
+821,Zelhem,AA,7021,0,0,Zelhem,Bronckhorst,Gelderland,middle,283
+833,Groningen Overwinningsplein,AA,9728,0,0,Groningen,Groningen,Groningen,north,280
+530,HT Stationslokatie Rotterdam C,AA,3013,0,0,Rotterdam,Rotterdam,Zuid-Holland,middle,344
+959,Puttershoek,A ,3297,0,0,Puttershoek,Binnenmaas,Zuid-Holland,middle,344
+827,Uitgeest,AA,1911,0,0,Uitgeest,Uitgeest,Noord-Holland,north,240
+647,Gieten,AA,9461,0,0,Gieten,Aa en Hunze,Drenthe,north,280
+382,'S Heerenberg,AA,7041,0,0,S Heerenberg,Montferland,Gelderland,middle,283
+915,Westervoort,A ,6931,0,0,Westervoort,Westervoort,Gelderland,south,275
+917,Doorn,A ,3941,0,0,Doorn,Utrechtse Heuvelrug,Utrecht,middle,260
+927,Marum,AA,9363,0,0,Marum,Marum,Groningen,north,280
+641,Warnsveld,AA,7232,0,0,Warnsveld,Zutphen,Gelderland,middle,283
+813,EV AA-Module,AA,1102,0,0,Amsterdam Zuidoost,Amsterdam,Noord-Holland,north,240
+947,Bemmel,A ,6681,0,0,Bemmel,Lingewaard,Gelderland,south,356
+638,Gulpen,AA,6271,0,0,Gulpen,Gulpen Wittem,Limburg,south,380
+391,Arnhem-Schuytgraaf,A ,6846,0,0,Arnhem,Arnhem,Gelderland,south,356
+542,Maastricht - De Leim,A ,6227,0,0,Maastricht,Maastricht,Limburg,south,380
+2193,Leidschenhage,C ,1033,0,0,Amsterdam,Amsterdam,Noord-Holland,north,240
+623,Monster,A ,2681,0,0,Monster,Westland,Zuid-Holland,middle,210
+252,R'dam-Lage Land,A ,3067,0,0,Rotterdam,Rotterdam,Zuid-Holland,middle,344
+313,Soest-Zuid,A ,3768,0,0,Soest,Soest,Utrecht,middle,260
+227,Haaksbergen,B ,7481,0,0,Haaksbergen,Haaksbergen,Overijssel,north,290
+914,St. Annaparochie,A ,9076,0,0,Sint Annaparochie,Het Bildt,Friesland,north,270
+367,Breda Valkeniersplein,AA,4835,0,0,Breda,Breda,Noord-Brabant,south,350
+351,Leidschendam  Damplein,AA,2265,0,0,Leidschendam,Leidschendam Voorburg,Zuid-Holland,middle,210
+629,Malden,A ,6581,0,0,Malden,Heumen,Gelderland,south,375
+346,Haarlem - Gasthuisvest,AA,2011,0,0,Haarlem,Haarlem,Noord-Holland,north,240
+946,Son,A ,5691,0,0,Son,Son en Breugel,Noord-Brabant,south,370
+555,HEMA eDC,D ,3542,0,0,Utrecht,Utrecht,Utrecht,middle,260
+825,Landsmeer,AA,1121,0,0,Landsmeer,Landsmeer,Noord-Holland,north,240
+362,Wormerveer,AA,1521,0,0,Wormerveer,Zaanstad,Noord-Holland,north,240
+2251,SO HEMA België,E ,1033,0,0,Amsterdam,Amsterdam,Noord-Holland,north,240
+311,Twello,A ,7391,0,0,Twello,Voorst,Gelderland,middle,275
+962,Oirschot,A ,5688,0,0,Oirschot,Oirschot,Noord-Brabant,south,370
+2172,Appingedam,A ,9901,0,0,Appingedam,Appingedam,Groningen,north,280
+836,Apeldoorn Hart van Zuid,AA,7331,0,0,Apeldoorn,Apeldoorn,Gelderland,middle,275
+830,Groningen-Lewenborg,AA,9733,0,0,Groningen,Groningen,Groningen,north,280
+375,Den Haag - Ypenburg,AA,2496,0,0,Den Haag,s Gravenhage,Zuid-Holland,middle,240
+2066,OUTLET Lelystad,B ,8232,0,0,Lelystad,Lelystad,Flevoland,north,269
+804,CS Praxis Breda,B ,4815,0,0,Breda,Breda,Noord-Brabant,south,350
+377,Schoonhoven,AA,2871,0,0,Schoonhoven,Schoonhoven,Zuid-Holland,middle,348
+369,Groningen -Westerhaven,AA,9718,0,0,Groningen,Groningen,Groningen,north,280
+2061,OUTLET Zoetermeer,B ,2711,0,0,Zoetermeer,Zoetermeer,Zuid-Holland,middle,344
+952,Stedebroec,A ,1611,0,0,Bovenkarspel,Stede Broec,Noord-Holland,north,249
+846,R'dam Eudokiaplein,AA,3037,0,0,Rotterdam,Rotterdam,Zuid-Holland,middle,344
+806,CS Praxis Heerlen,B ,6418,0,0,Heerlen,Heerlen,Limburg,south,380
+966,Ter Apel,A ,9561,0,0,Ter Apel,Vlagtwedde,Groningen,north,286
+2176,Oudenbosch,A ,4731,0,0,Oudenbosch,Halderberge,Noord-Brabant,south,340
+837,Eindhoven Kastelenplein,AA,5653,0,0,Eindhoven,Eindhoven,Noord-Brabant,south,370
+631,Grou,A ,9001,0,0,Grou,Boarnsterhim,Friesland,north,270
+919,Weesp,A ,1381,0,0,Weesp,Weesp,Noord-Holland,north,240
+943,Tubbergen,A ,7651,0,0,Tubbergen,Tubbergen,Overijssel,north,290
+937,Maasbracht,A ,6051,0,0,Maasbracht,Maasbracht,Limburg,south,377
+2041,HEMArkt Helmond,AA,5701,0,0,Helmond,Helmond,Noord-Brabant,south,370
+850,NIET BESCHIKBAAR,AA,1033,0,0,Amsterdam,Amsterdam,Noord-Holland,north,240
+2038,HEMArkt Venlo TREF Center,AA,5916,0,0,Venlo,Venlo,Limburg,south,391
+533,HT Stationslokatie A'dam Amste,AA,1033,0,0,Amsterdam,Amsterdam,Noord-Holland,north,240
+2040,Outlet Tilburg Heuvelstraat,AA,5038,0,0,Tilburg,Tilburg,Noord-Brabant,south,350
+925,Noordwijkerhout,A ,2211,0,0,Noordwijkerhout,Noordwijkerhout,Zuid-Holland,middle,210
+268,Borne,A ,7622,0,0,Borne,Borne,Overijssel,north,290
+805,CS Praxis Venlo,B ,5916,0,0,Venlo,Venlo,Limburg,south,391
+370,Someren,AA,5711,0,0,Someren,Someren,Noord-Brabant,south,370
+953,Nederweert,A ,6031,0,0,Nederweert,Nederweert,Limburg,south,377
+634,Ter Aar,A ,2461,0,0,Ter Aar,Ter Aar,Zuid-Holland,middle,240
+526,HT Stationslokatie Maastricht,AA,6221,0,0,Maastricht,Maastricht,Limburg,south,380
+842,Amsterdam Beethovenstraat,A ,1077,0,0,Amsterdam,Amsterdam,Noord-Holland,north,240
+531,HT Stationslokatie Den Haag CS,AA,2595,0,0,Den Haag,s Gravenhage,Zuid-Holland,middle,210
+712,Meerssen,A ,6231,0,0,Meerssen,Meerssen,Limburg,south,380
+839,Enschede-Zuid,A ,7544,0,0,Enschede,Enschede,Overijssel,north,290
+2064,OUTLET Bergen op Zoom,B ,4611,0,0,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,south,340
+323,Haarlem Cronjestraat,A ,2022,0,0,Haarlem,Haarlem,Noord-Holland,north,240
+2039,Outlet Nijmegen St Jacobslaan,AA,6533,0,0,Nijmegen,Nijmegen,Gelderland,south,375
+912,Hoofddorp-Floriande,A ,2134,0,0,Hoofddorp,Haarlemmermeer,Noord-Holland,north,240
+931,Oudewater,A ,3421,0,0,Oudewater,Oudewater,Utrecht,middle,348
+499,B.E. Barteljorrisstraat Haarle,AA,2011,0,0,Haarlem,Haarlem,Noord-Holland,north,240
+2158,CS Den Haag,A ,2595,0,1,Den Haag,s Gravenhage,Zuid-Holland,middle,210
+933,Laren,A ,1251,0,0,Laren (NH),Laren,Noord-Holland,north,260
+393,Dordrecht-Bieshof,AA,3315,0,0,Dordrecht,Dordrecht,Zuid-Holland,middle,356
+625,Zwaagwesteinde,AA,9271,0,0,Zwaagwesteinde,Dantumadeel,Friesland,north,270
+2149,OUTLET STORE,B ,1033,0,0,Amsterdam,Amsterdam,Noord-Holland,north,240
+1001,Ouwehands Dierenpark,C ,3911,0,0,Rhenen,Rhenen,Utrecht,middle,260
+848,Made,A ,4921,0,0,Made,Drimmelen,Noord-Brabant,south,350
+971,Avenhorn,A ,1633,0,0,Avenhorn,Wester Koggenland,Noord-Holland,north,249
+645,Boekel,A ,5427,0,0,Boekel,Boekel,Noord-Brabant,south,375
+941,Wijhe,AA,8131,0,0,Wijhe,Olst Wijhe,Overijssel,north,278
+958,Rotterdam Schiebroek,AA,3053,0,0,Rotterdam,Rotterdam,Zuid-Holland,middle,344
+926,Vorden,AA,7251,0,0,Vorden,Bronckhorst,Gelderland,middle,283
+2079,Amsterdam Zuid-Oost,A ,1102,0,0,Amsterdam Zuidoost,Amsterdam,Noord-Holland,north,240
+644,Zwanenburg,AA,1161,0,0,Zwanenburg,Haarlemmermeer,Noord-Holland,north,240
+2146,OUTLET STORE,B ,1033,0,0,Amsterdam,Amsterdam,Noord-Holland,north,240
+929,De Bilt,A ,3732,0,0,De Bilt,De Bilt,Utrecht,middle,260
+528,HT Stationslokatie Amsterdam Z,AA,1082,0,0,Amsterdam,Amsterdam,Noord-Holland,north,240
+826,Leiden-Kopermolen,AA,2317,0,0,Leiden,Leiden,Zuid-Holland,middle,240
+374,Bunnik,AA,3981,0,0,Bunnik,Bunnik,Utrecht,middle,260
+963,Opmeer,A ,1715,0,0,Spanbroek,Opmeer,Noord-Holland,north,240
+650,Scherpenzeel,AA,3925,0,0,Scherpenzeel (GLD),Scherpenzeel,Gelderland,middle,260
+838,Baarle Nassau,A ,5111,0,0,Baarle Nassau,Baarle Nassau,Noord-Brabant,south,350
+903,Waddinxveen,B ,2741,0,0,Waddinxveen,Waddinxveen,Zuid-Holland,middle,344
+646,Staphorst,A ,7951,0,0,Staphorst,Staphorst,Overijssel,north,279
+911,Voorhout,A ,2215,0,0,Voorhout,Teylingen,Zuid-Holland,middle,210
+840,Abcoude,A ,1391,0,0,Abcoude,Abcoude,Utrecht,middle,240
+547,Utrecht Nachtegaalstraat,A ,3581,0,0,Utrecht,Utrecht,Utrecht,middle,260
+2057,OUTLET Enschede,B ,7533,0,0,Enschede,Enschede,Overijssel,north,290
+964,Halsteren,AA,4661,0,0,Halsteren,Bergen Op Zoom,Noord-Brabant,south,340
+973,Bedum,A ,9781,0,0,Bedum,Bedum,Groningen,north,280
+532,HT Stationslokatie Nijmegen CS,AA,1033,0,0,Amsterdam,Amsterdam,Noord-Holland,north,240
+939,Hoevelaken,AA,3871,0,0,Hoevelaken,Nijkerk,Gelderland,middle,260
+967,Holten,A ,7451,0,0,Holten,Rijssen Holten,Overijssel,north,278
+904,Drunen,A ,5151,0,0,Drunen,Heusden,Noord-Brabant,south,350
+2150,CS Amsterdam,A ,1012,0,1,Amsterdam,Amsterdam,Noord-Holland,north,240
+2053,Outlet Roermond,B ,6041,0,0,Roermond,Roermond,Limburg,south,377
+928,Nieuwkoop,AA,2421,0,0,Nieuwkoop,Nieuwkoop,Zuid-Holland,middle,240
+733,Lienden,A ,4033,0,0,Lienden,Buren,Gelderland,middle,356
+2147,OUTLET STORE,B ,1033,0,0,Amsterdam,Amsterdam,Noord-Holland,north,240
+2060,Outlet Delft,B ,2611,0,0,Delft,Delft,Zuid-Holland,middle,344
+2254,SO HEMA Spanje,E ,1033,0,0,Amsterdam,Amsterdam,Noord-Holland,north,240
+656,Leersum,A ,3956,0,0,Leersum,Utrechtse Heuvelrug,Utrecht,middle,260
+694,Amsterdam Rijnstraat,A ,1033,0,0,Amsterdam,Amsterdam,Noord-Holland,north,240
+535,HT Stationslokatie Den Haag HS,AA,2515,0,0,Den Haag,s Gravenhage,Zuid-Holland,middle,210
+965,Zuidhorn,A ,9801,0,0,Zuidhorn,Zuidhorn,Groningen,north,280
+676,Genemuiden,A ,8281,0,0,Genemuiden,Zwartewaterland,Overijssel,north,273
+847,Gouda Bloemendaal,AA,2804,0,0,Gouda,Gouda,Zuid-Holland,middle,348
+906,Rosmalen,B ,5241,0,0,Rosmalen,s Hertogenbosch,Noord-Brabant,south,375
+803,CS Praxis Zwolle,B ,8013,0,0,Zwolle,Zwolle,Overijssel,north,278
+921,Eerbeek,AA,6961,0,0,Eerbeek,Brummen,Gelderland,middle,275
+672,Harderwijk-Drielanden,A ,3845,0,0,Harderwijk,Harderwijk,Gelderland,middle,260
+2145,OUTLET STORE,B ,1033,0,0,Amsterdam,Amsterdam,Noord-Holland,north,240
+2126,Breukelen,A ,3621,0,0,Breukelen (UT),Breukelen,Utrecht,middle,260
+969,Oude Pekela,AA,9665,0,0,Oude Pekela,Pekela,Groningen,north,286
+956,Reuver,A ,5953,0,0,Reuver,Beesel,Limburg,south,391
+972,Eelde,A ,9761,0,0,Eelde,Tynaarlo,Drenthe,north,280
+2067,OUTLET-Arnhem Kronenburg,B ,6831,0,0,Arnhem,Arnhem,Gelderland,south,356
+811,HT Horeca Reguliersbreestraat,AA,1017,0,0,Amsterdam,Amsterdam,Noord-Holland,north,240
+910,Lunteren,AA,6741,0,0,Lunteren,Ede,Gelderland,middle,275
+649,Nieuwleusen,A ,7711,0,0,Nieuwleusen,Dalfsen,Overijssel,north,278
+960,Zuidlaren,A ,9471,0,0,Zuidlaren,Tynaarlo,Drenthe,north,280
+918,Hoogerheide,A ,4631,0,0,Hoogerheide,Woensdrecht,Noord-Brabant,south,340
+2065,OUTLET-STORE ZEIST,B ,3701,0,0,Zeist,Zeist,Utrecht,middle,260
+2051,Outlet Purmerend,B ,1441,0,0,Purmerend,Purmerend,Noord-Holland,north,240
+957,Rockanje,AA,3235,0,0,Rockanje,Westvoorne,Zuid-Holland,middle,344
+934,Rozenburg,A ,3181,0,0,Rozenburg (ZH),Rozenburg,Zuid-Holland,middle,344
+2154,CS ALKMAAR,A ,1815,0,1,Alkmaar,Alkmaar,Noord-Holland,north,240
+2144,OUTLET,B ,1398,0,0,Muiden,Muiden,Noord-Holland,north,240
+2252,SO HEMA DUITSLAND,E ,1033,0,0,Amsterdam,Amsterdam,Noord-Holland,north,240
+908,Zundert,A ,4881,0,0,Zundert,Zundert,Noord-Brabant,south,350
+1002,N.E.C. BV,C ,6532,0,0,Nijmegen,Nijmegen,Gelderland,south,375
+2155,CS Maastricht,A ,6221,0,1,Maastricht,Maastricht,Limburg,south,380
+954,Grave,A ,5361,0,0,Grave,Grave,Noord-Brabant,south,375
+2157,CS Rotterdam,A ,3013,0,1,Rotterdam,Rotterdam,Zuid-Holland,middle,344
+2141,Outlet Maastricht Brusselse Po,B ,6216,0,0,Maastricht,Maastricht,Limburg,south,380
+936,Renkum,A ,6871,0,0,Renkum,Renkum,Gelderland,south,275
+909,Mierlo,A ,5731,0,0,Mierlo,Geldrop Mierlo,Noord-Brabant,south,370
+2056,Outlet Venlo,B ,1033,0,0,Amsterdam,Amsterdam,Noord-Holland,north,240
+2173,Boskoop,AA,2771,0,0,Boskoop,Boskoop,Zuid-Holland,middle,344
+2068,OUTLET-Den Haag Megastores,B ,2521,0,0,Den Haag,s Gravenhage,Zuid-Holland,middle,210
+2063,OUTLET-Doetinchem,B ,7001,0,0,Doetinchem,Doetinchem,Gelderland,middle,283
+2143,Outlet Tilburg,B ,5038,0,0,Tilburg,Tilburg,Noord-Brabant,south,350
+2175,Rotterdam Prinsenland,AA,3065,0,0,Rotterdam,Rotterdam,Zuid-Holland,middle,344

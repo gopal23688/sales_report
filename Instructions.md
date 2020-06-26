@@ -10,7 +10,7 @@ For this, we have provided you with the sales transactional data, product and st
  - Deploy the required AWS components to complete this assessment using CloudFormation template/CDK.
  - Add in all possible configurations and policies that is required for this use case.
  - Build a CI/CD pipeline (Using codepipeline and codebuild) in such a way that it should be triggered automatically when there is a new change in git. 
- - The code should be able take S3 location as user input,to pick the raw data from.  
+ - The code should be able to take S3 location as user input,to pick the raw data from.  
  - Data cleansing and transformation techiques to be implemented precisely.
  - Generate a daily report which shows HEMA sales per day, per product ,per store having the store with highest sales on the top with a roll out of past 7 days.
  - Report generated should be written into another S3 bucket(Nice to name it as consumption bucket).

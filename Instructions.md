@@ -24,7 +24,7 @@ For this, we have provided you with the sales transactional data, product and st
  - Completed code should be pushed to new repository.
  - Provide clear instructions and add in all the details in the README.md on how to run the code.
  - Cloudformation /CDK usage should be documented clearly.
- - Once the code is committed, invite us(hema-assessment) as a collaborator to your repository,so that we can review your code.
+ - Once the code is committed, invite us(marcusmsv1 & ramyabalachandran) as a collaborator to your repository,so that we can review your code.
 
 ### `Points to Note:`
 

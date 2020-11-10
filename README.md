@@ -122,7 +122,6 @@ products.toDF().select ("product_id","prod_desc").createOrReplaceTempView("produ
 
 ##Sales table data frame creation
 
-
 ##conversion of comma to dot format in amount column in the sales table
 
 
@@ -209,7 +208,7 @@ client.delete_object(Bucket=BUCKET_NAME, Key=name)
 ```   
    from pyspark.sql.functions import current_date, datediff, unix_timestamp
 
-   df_casted.where(datediff(current_date(), col("dt")) < 7)
+   sales.toDF().where(invoice_date(current_date(), col("dt")) < 7))
 
 ```
 

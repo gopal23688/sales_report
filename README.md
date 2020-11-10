@@ -1,5 +1,9 @@
 # sales_report
 
+# Step1:
+Deploy the required AWS components to complete this assessment using CloudFormation template/CDK.
+
+
 
 
 # Step2: 
@@ -140,7 +144,6 @@ job.commit()
 
 # Code Snippet
 ```
-
 
 import boto3
 client = boto3.client('s3')

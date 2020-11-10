@@ -162,7 +162,7 @@ client.delete_object(Bucket=BUCKET_NAME, Key=name)
 
 ```
 
-# Step 4 : Created the workflow to run the above workflows at 7 AM daily and workflow name is "test" which triggers the workflows one after another.
+# Step 4 : Created the workflow to run the above workflows at 7 AM daily and workflow name is "reportingdaily" which triggers the workflows one after another.
 
 
 # General

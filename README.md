@@ -54,11 +54,6 @@ sc2 = SparkSession.builder.appName("HemaSalesReport").config ("spark.sql.shuffle
 ##@params: [JOB_NAME]
 args = getResolvedOptions(sys.argv, ['JOB_NAME'])
 
-#sc = SparkContext()
-#glueContext = GlueContext(sc)
-#spark = glueContext.spark_session
-#job = Job(glueContext)
-#job.init(args['JOB_NAME'], args)
 
 ##@type: DataSource
 ##@args: [database = "hemareporting", table_name = "products", transformation_ctx = "products"]

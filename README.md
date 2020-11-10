@@ -204,4 +204,12 @@ client.delete_object(Bucket=BUCKET_NAME, Key=name)
 
 1) I have given necessary roles for making this usecase working 
 2) Data is not having the latest data and hence in code sql i have not added date-7 as it will not populate the table output.
+  
+   Note: I can use the below filter to the data frames to get the output for last 7 days .
+```   
+   from pyspark.sql.functions import current_date, datediff, unix_timestamp
+
+   df_casted.where(datediff(current_date(), col("dt")) < 7)
+
+```
 

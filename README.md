@@ -3,8 +3,43 @@
 # Step1:
 Deploy the required AWS components to complete this assessment using CloudFormation template/CDK.
 
+First 1: To create 2 AWS Buckets using cloudformation one is used for source to connect to github and another for consumption ( to write the file )
 
-
+```
+AWSTemplateFormatVersion: 2010-09-09
+Metadata:
+  'AWS::CloudFormation::Designer':
+    47c7d852-1012-45f8-9d02-bf11ef75cc9d:
+      size:
+        width: 60
+        height: 60
+      position:
+        x: 57
+        'y': 88
+      z: 0
+    b7a813da-c021-415b-8b08-35b72f8e09fa:
+      size:
+        width: 60
+        height: 60
+      position:
+        x: 260
+        'y': 90
+      z: 0
+Resources:
+  SourceBucket:
+    Type: 'AWS::S3::Bucket'
+    Properties: {}
+    Metadata:
+      'AWS::CloudFormation::Designer':
+        id: 47c7d852-1012-45f8-9d02-bf11ef75cc9d
+  ConsumptionBucket:
+    Type: 'AWS::S3::Bucket'
+    Properties: {}
+    Metadata:
+      'AWS::CloudFormation::Designer':
+        id: b7a813da-c021-415b-8b08-35b72f8e09fa
+        
+```
 
 # Step2: 
 To Build a CI/CD pipeline (Using codepipeline and codebuild) in such a way that it should be triggered automatically when there is a new change in git.

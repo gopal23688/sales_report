@@ -22,7 +22,7 @@ Generate a daily report which shows HEMA sales per day, per product ,per store h
    --> HemaReport is the job for creating the ETL and which takes the input from "s3://salesreportinghema" and do the necessary ETL tasks and load the data into " "s3://salesreportconsumption/"
    
 ## Below is the code snippet
-   
+```  
    import sys
 from awsglue.transforms import *
 from awsglue.utils import getResolvedOptions
@@ -131,10 +131,14 @@ glueContext.write_dynamic_frame.from_options(frame = output, connection_type = "
 job.commit()
 
 
+```
+
 --> report_rename : This is workflow which will check for the output file which is written to "s3://salesreportconsumption/" is in the spark format and this will be changed to desired format as "hemasalesdaily.csv" which has the desired output which needs to present to business lead.
 
 
 # Code Snippet
+```
+
 
 import boto3
 client = boto3.client('s3')
@@ -156,6 +160,7 @@ copy_key =  'hemasalesdaily.csv'
 client.copy(CopySource=copy_source, Bucket=BUCKET_NAME, Key=copy_key)
 client.delete_object(Bucket=BUCKET_NAME, Key=name)
 
+```
 
 # Step 4 : Created the workflow to run the above workflows at 7 AM daily and workflow name is "test" which triggers the workflows one after another.
 

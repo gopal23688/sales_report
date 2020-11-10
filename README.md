@@ -1,5 +1,7 @@
 # sales_report
 
+
+
 # Step2: 
 To Build a CI/CD pipeline (Using codepipeline and codebuild) in such a way that it should be triggered automatically when there is a new change in git.
 
@@ -165,5 +167,8 @@ client.delete_object(Bucket=BUCKET_NAME, Key=name)
 # Step 4 : Created the workflow to run the above workflows at 7 AM daily and workflow name is "test" which triggers the workflows one after another.
 
 
+# General
 
+1) I have given necessary roles for making this usecase working 
+2) Data is not having the latest data and hence in code sql i have not added date-7 as it will not populate the table output.
 
